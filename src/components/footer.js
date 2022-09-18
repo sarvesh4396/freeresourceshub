@@ -45,7 +45,8 @@ function Footer() {
   return (
     <footer class="text-center">
       <div class="container px-6 pt-6 font-semibold">
-        Made with ❤️ by
+        Made with ❤️ by <br></br>
+        <span>Sarvesh Kumar Dwivedi</span>
         <div class="flex justify-center mb-6">
           {items.map(function (item) {
             return button(item);
