@@ -34,7 +34,7 @@ export default function MyNavBar() {
             className="p-1 font-normal"
             key={page.name}
           >
-            <a href={page.href} className="flex items-center">
+            <a href={page.href} className="flex items-center text-green-700">
               {page.name}
             </a>
           </Typography>
@@ -48,7 +48,11 @@ export default function MyNavBar() {
       <div className="container mx-auto flex items-center justify-between text-blue-gray-900">
         <Logo />
         <div className="hidden lg:block">{navList}</div>
-        <Button variant="gradient" size="sm" className="hidden lg:inline-block">
+        <Button
+          variant="gradient"
+          size="sm"
+          className="hidden lg:inline-block text-black"
+        >
           <span>Product hunt</span>
         </Button>
         <IconButton
@@ -91,7 +95,12 @@ export default function MyNavBar() {
       </div>
       <MobileNav open={openNav}>
         {navList}
-        <Button variant="gradient" size="sm" fullWidth className="mb-2">
+        <Button
+          variant="gradient"
+          size="sm"
+          fullWidth
+          className="mb-2 text-black"
+        >
           <span>Product hunt</span>
         </Button>
       </MobileNav>

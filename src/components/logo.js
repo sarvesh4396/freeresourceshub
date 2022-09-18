@@ -10,7 +10,7 @@ function Logo() {
       variant="lead"
       className="mr-4 cursor-pointer py-1.5 font-bold"
     >
-      <div className="flex align-middle">
+      <div className="flex align-middle text-black">
         {/* <img
           src={require("./../assets/images/logo.png")}
           alt="Site Logo"
