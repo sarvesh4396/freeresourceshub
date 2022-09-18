@@ -1,5 +1,5 @@
 import React from "react";
-import { SITE_VARS } from "./../constants/constants";
+import { DATA } from "./../constants/constants";
 
 function ProductCard(item) {
   return (
@@ -25,7 +25,7 @@ function ProductCard(item) {
 function Home() {
   return (
     <div className="grid sm:grid-cols-2 md:grid-cols-4 gap-4 m-10">
-      {SITE_VARS.data.map(function (item) {
+      {DATA.data.map(function (item) {
         return ProductCard(item);
       })}
     </div>
