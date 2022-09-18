@@ -1,9 +1,20 @@
-import "./App.css";
+import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
+import MyNavBar from "./components/navbar/navbar";
+import Form from "./pages/form";
+import Home from "./pages/home";
 
 function App() {
   return (
     <div className="h-screen bg-back-pattern">
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
+      <Router>
+        <MyNavBar key="mynavbar" />
+
+        <Routes>
+          <Route exact path="/" element={<Home />} />
+
+          <Route path="/submit_resource" element={<Form />} />
+        </Routes>
+      </Router>
     </div>
   );
 }
