@@ -11,7 +11,7 @@ import Logo from "./../logo";
 
 const pages = [
   { name: "Home", href: "/" },
-  { name: "Submit Resource", href: "/submit_resource" },
+  { name: "Submit Resource", href: SITE_VARS.github_issue },
 ];
 export default function MyNavBar() {
   const [openNav, setOpenNav] = useState(false);
