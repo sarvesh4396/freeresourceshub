@@ -1,15 +1,9 @@
 import React from "react";
 import { SITE_VARS } from "./../constants/constants";
-import { Typography, Avatar } from "@material-tailwind/react";
 
 function Logo() {
   return (
-    <Typography
-      as="a"
-      href="/"
-      variant="lead"
-      className="mr-4 cursor-pointer py-1.5 font-bold"
-    >
+    <a href="/" className="mr-4 cursor-pointer py-1.5 font-bold">
       <div className="flex align-middle text-black">
         {/* <img
           src={require("./../assets/images/logo.png")}
@@ -18,7 +12,7 @@ function Logo() {
         /> */}
         <span className="align-middle">{SITE_VARS.name}</span>
       </div>
-    </Typography>
+    </a>
   );
 }
 
