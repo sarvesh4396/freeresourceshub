@@ -33,9 +33,17 @@ Object.keys(sources).forEach((key) => {
   plain_sources.push(sources[key].name);
 });
 
+// filtering resources with same url
+var final_data = data.reduce((res, item) => {
+  if (!res.find((u) => u.url === item.url)) {
+    res.push(item);
+  }
+  return res;
+}, []);
+
 export const DATA = {
   sources: sources,
-  resources: data,
+  resources: final_data,
   plain_sources: plain_sources,
   tags: [...new Set(tags)],
 };
