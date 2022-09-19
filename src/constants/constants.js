@@ -22,9 +22,7 @@ two.forEach(function (res) {
 const data = [].concat(one, two);
 const tags = [];
 
-data.map((item) => {
-  tags.push(...item.tags);
-});
+data.map((item) => tags.push(...item.tags));
 
 var plain_sources = [];
 
