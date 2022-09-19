@@ -1,35 +1,113 @@
 import React from "react";
 import { DATA } from "./../constants/constants";
+import Multiselect from "multiselect-react-dropdown";
+import { ProductCard } from "../components/ProductCard";
 
-function ProductCard(item) {
-  return (
-    <a href={item.url} target="_blank" rel="noopener noreferrer">
-      <div class="flex overflow-hidden shadow-lg border-4 border-slate-200 border-b-slate-500 rounded-lg transform transition duration-500 hover:scale-110 ">
-        <img
-          class="object-none w-20 h-20 object-center"
-          src={
-            "https://s2.googleusercontent.com/s2/favicons?sz=64&domain=" +
-            item.url
-          }
-          alt={item.name}
-        />
-        <div class="px-6 py-4">
-          <div class="font-bold text-xl mb-2">{item.name}</div>
-          <p class="text-gray-700 text-base">{item.description}</p>
-        </div>
-      </div>
-    </a>
-  );
+function get_tagged_resource(resources, tags) {
+  var finalResources = [];
+  for (var i = 0; i < resources.length; i++) {
+    var original = resources[i];
+    if (original.tags.some((r) => tags.includes(r))) {
+      finalResources.push(original);
+    }
+  }
+  return finalResources;
 }
 
-function Home() {
-  return (
-    <div className="grid sm:grid-cols-2 md:grid-cols-4 gap-4 m-10">
-      {DATA.data.map(function (item) {
-        return ProductCard(item);
-      })}
-    </div>
-  );
+function get_sourced_resource(resources, sources) {
+  var finalResources = [];
+  for (var i = 0; i < resources.length; i++) {
+    var original = resources[i];
+    if (sources.includes(DATA.sources[original.source].name)) {
+      finalResources.push(original);
+    }
+  }
+  return finalResources;
+}
+
+class Home extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      resources: DATA.resources,
+      sources: DATA.plain_sources,
+      tags: DATA.tags,
+      selectedSources: [],
+      selectedTags: [],
+    };
+    this.addSource = this.addSource.bind(this);
+    this.removeSource = this.removeSource.bind(this);
+    this.addTag = this.addTag.bind(this);
+    this.removeTag = this.removeTag.bind(this);
+    this.addSetResources = this.addSetResources.bind(this);
+  }
+  addSetResources() {
+    var resources;
+    const { selectedTags, selectedSources } = this.state;
+    var tagsLength = selectedTags.length;
+    var sourcesLength = selectedSources.length;
+
+    // Get resources from particular source
+    if (sourcesLength === 0) {
+      resources = DATA.resources;
+    } else {
+      resources = get_sourced_resource(DATA.resources, selectedSources);
+    }
+
+    // get sources from particular tag
+    if (tagsLength !== 0) {
+      resources = get_tagged_resource(resources, selectedTags);
+    }
+
+    this.setState({
+      resources: resources,
+    });
+  }
+  addSource(selectedList, selectedItem) {
+    this.state.selectedSources.push(selectedItem);
+    this.addSetResources();
+  }
+  removeSource(selectedList, removedItem) {
+    this.state.selectedSources.pop(removedItem);
+
+    this.addSetResources();
+  }
+
+  addTag(selectedList, selectedItem) {
+    this.state.selectedTags.push(selectedItem);
+    this.addSetResources();
+  }
+  removeTag(selectedList, removedItem) {
+    this.state.selectedTags.pop(removedItem);
+    this.addSetResources();
+  }
+
+  render() {
+    return [
+      <Multiselect
+        showArrow
+        options={this.state.tags} // Options to display in the dropdown
+        selectedValues={this.state.selectedTags} // Preselected value to persist in dropdown
+        onSelect={this.addTag} // Function will trigger on select event
+        onRemove={this.removeTag} // Function will trigger on remove event
+        isObject={false}
+      />,
+      <Multiselect
+        showArrow
+        options={this.state.sources} // Options to display in the dropdown
+        selectedValues={this.state.selectedSources} // Preselected value to persist in dropdown
+        onSelect={this.addSource} // Function will trigger on select event
+        onRemove={this.removeSource} // Function will trigger on remove event
+        isObject={false}
+      />,
+
+      <div className="grid sm:grid-cols-2 md:grid-cols-4 gap-4 m-10">
+        {this.state.resources.map(function (item) {
+          return ProductCard(item);
+        })}
+      </div>,
+    ];
+  }
 }
 
 export default Home;
