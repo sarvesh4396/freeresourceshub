@@ -8,6 +8,15 @@ export const SITE_VARS = {
   github_issue: "https://github.com/sarvesh4396/freeresourceshub/issues",
   twitter: "https://twitter.com/sarvesh4396",
 };
-const data = [];
+const data = [].concat(one);
+const tags = [];
 
-export const DATA = { sources: sources, data: data.concat(one) };
+data.map((item) => {
+  tags.push(...item.tags);
+});
+
+export const DATA = {
+  sources: sources,
+  resources: data,
+  tags: [...new Set(tags)],
+};
