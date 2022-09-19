@@ -3,16 +3,17 @@ import React from "react";
 function button(item) {
   return (
     <a
+      key={item.url}
       href={item.url}
       type="button"
-      class="rounded-full border-2 border-green-600  leading-normal uppercase hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-9 h-9 m-1"
+      className="rounded-full border-2 border-green-600  leading-normal uppercase hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-9 h-9 m-1"
     >
       <svg
         aria-hidden="true"
         focusable="false"
         data-prefix="fab"
         data-icon="twitter"
-        class="w-3 h-full mx-auto text-blue-900"
+        className="w-3 h-full mx-auto text-blue-900"
         role="img"
         xmlns="http://www.w3.org/2000/svg"
         viewBox="0 0 512 512"
@@ -43,11 +44,11 @@ const items = [
 
 function Footer() {
   return (
-    <footer class="text-center">
-      <div class="container px-6 pt-6 font-semibold">
+    <footer className="text-center">
+      <div className="container px-6 pt-6 font-semibold">
         Made with ❤️ by <br></br>
         <span>Sarvesh Kumar Dwivedi</span>
-        <div class="flex justify-center mb-6">
+        <div className="flex justify-center mb-6">
           {items.map(function (item) {
             return button(item);
           })}
