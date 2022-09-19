@@ -6,16 +6,17 @@ import Footer from "./components/footer";
 
 function App() {
   return (
-    <Router>
-      <MyNavBar key="mynavbar" />
+    <div className="h-full bg-back-pattern bg-cover">
+      <Router>
+        <MyNavBar key="mynavbar" />
+        <Routes>
+          <Route exact path="/" element={<Home />} />
 
-      <Routes>
-        <Route exact path="/" element={<Home />} />
-
-        <Route path="/submit_resource" element={<Form />} />
-      </Routes>
-      <Footer key="footer" />
-    </Router>
+          <Route path="/submit_resource" element={<Form />} />
+        </Routes>
+        <Footer key="footer" />
+      </Router>
+    </div>
   );
 }
 
