@@ -46,7 +46,7 @@ const items = [
 
 function Footer() {
   return (
-    <footer className="text-center">
+    <footer className="text-center bottom-0 left-0 w-screen">
       <div className="container px-6 pt-6 font-semibold">
         Made with ❤️ by <br></br>
         <span>Sarvesh Kumar Dwivedi</span>
