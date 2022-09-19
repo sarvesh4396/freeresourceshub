@@ -84,22 +84,30 @@ class Home extends React.Component {
 
   render() {
     return [
-      <Multiselect
-        showArrow
-        options={this.state.tags} // Options to display in the dropdown
-        selectedValues={this.state.selectedTags} // Preselected value to persist in dropdown
-        onSelect={this.addTag} // Function will trigger on select event
-        onRemove={this.removeTag} // Function will trigger on remove event
-        isObject={false}
-      />,
-      <Multiselect
-        showArrow
-        options={this.state.sources} // Options to display in the dropdown
-        selectedValues={this.state.selectedSources} // Preselected value to persist in dropdown
-        onSelect={this.addSource} // Function will trigger on select event
-        onRemove={this.removeSource} // Function will trigger on remove event
-        isObject={false}
-      />,
+      <div className="flex m-2 p-2 justify-between">
+        <Multiselect
+          showArrow
+          placeholder="Select Tags"
+          options={this.state.tags} // Options to display in the dropdown
+          selectedValues={this.state.selectedTags} // Preselected value to persist in dropdown
+          onSelect={this.addTag} // Function will trigger on select event
+          onRemove={this.removeTag} // Function will trigger on remove event
+          isObject={false}
+          className="border-2 border-blue-900 text-justify font-semibold"
+        />
+        ,
+        <Multiselect
+          showArrow
+          placeholder="Select Sources"
+          options={this.state.sources} // Options to display in the dropdown
+          selectedValues={this.state.selectedSources} // Preselected value to persist in dropdown
+          onSelect={this.addSource} // Function will trigger on select event
+          onRemove={this.removeSource} // Function will trigger on remove event
+          isObject={false}
+          className="border-2 border-blue-900 text-justify font-semibold"
+        />
+        ,
+      </div>,
 
       <div className="grid sm:grid-cols-2 md:grid-cols-4 gap-4 m-10">
         {this.state.resources.map(function (item) {
@@ -111,3 +119,5 @@ class Home extends React.Component {
 }
 
 export default Home;
+
+// style={ chips: { background: "red" }, searchBox: { border: "none", "border-bottom": "1px solid blue", "border-radius": "0px" } }
