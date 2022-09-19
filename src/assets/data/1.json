@@ -1,0 +1,58 @@
+[
+    {
+        "tags": [
+            "Log Management"
+        ],
+        "name": "bugfender.com",
+        "url": "https://bugfender.com/",
+        "description": "bugfender.com — Free up to 100k log lines/day with 24 hours retention"
+    },
+    {
+        "tags": [
+            "Log Management"
+        ],
+        "name": "humio.com",
+        "url": "https://www.humio.com/",
+        "description": "humio.com — Free up to 16 GB/day with 7 days retention"
+    },
+    {
+        "tags": [
+            "Log Management"
+        ],
+        "name": "logdna.com",
+        "url": "https://logdna.com",
+        "description": "logdna.com - Free for a single user, no retention, unlimited hosts and sources"
+    },
+    {
+        "tags": [
+            "Log Management"
+        ],
+        "name": "logentries.com",
+        "url": "https://logentries.com/",
+        "description": "logentries.com — Free up to 5 GB/month with 7 days retention"
+    },
+    {
+        "tags": [
+            "Crash and Exception Handling"
+        ],
+        "name": "CatchJS.com",
+        "url": "https://catchjs.com/",
+        "description": "CatchJS.com - JavaScript error tracking with screenshots and click trails. Free for open source projects."
+    },
+    {
+        "tags": [
+            "Crash and Exception Handling"
+        ],
+        "name": "bugsnag.com",
+        "url": "https://www.bugsnag.com/",
+        "description": "bugsnag.com — Free for up to 2,000 errors/month after the initial trial"
+    },
+    {
+        "tags": [
+            "Crash and Exception Handling"
+        ],
+        "name": "elmah.io",
+        "url": "https://elmah.io/",
+        "description": "elmah.io — Error logging and uptime monitoring for web developers. Free Small Business subscription for open source projects."
+    }
+]
