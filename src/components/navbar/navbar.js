@@ -1,11 +1,4 @@
 import { useState, useEffect } from "react";
-import {
-  Navbar,
-  MobileNav,
-  Typography,
-  Button,
-  IconButton,
-} from "@material-tailwind/react";
 import { SITE_VARS } from "../../constants/constants";
 import Logo from "./../logo";
 
@@ -16,94 +9,62 @@ const pages = [
 export default function MyNavBar() {
   const [openNav, setOpenNav] = useState(false);
 
-  useEffect(() => {
-    window.addEventListener(
-      "resize",
-      () => window.innerWidth >= 960 && setOpenNav(false)
-    );
-  }, []);
-
+  // useEffect(() => {
+  //   window.addEventListener(
+  //     "resize",
+  //     () => window.innerWidth >= 960 && setOpenNav(false)
+  //   );
+  // }, []);
+  function dropBar(event) {
+    setOpenNav(!openNav);
+  }
   const navList = (
     <ul className="mb-4 mt-2 flex flex-col gap-2 lg:mb-0 lg:mt-0 lg:flex-row lg:items-center lg:gap-6">
       {pages.map(function (page) {
         return (
-          <Typography
-            as="li"
-            variant="small"
-            color="blue-gray"
-            className="p-1 font-normal"
-            key={page.name}
-          >
-            <a href={page.href} className="flex items-center text-green-700">
+          <li className="p-1 font-normal blue-gray" key={page.name}>
+            <a
+              href={page.href}
+              className="flex items-center hover:text-green-800"
+            >
               {page.name}
             </a>
-          </Typography>
+          </li>
         );
       })}
     </ul>
   );
 
   return (
-    <Navbar className="mx-auto max-w-screen-xl py-2 px-4 lg:px-8 lg:py-4 bg-transparent">
-      <div className="container mx-auto flex items-center justify-between text-blue-gray-900">
-        <Logo />
-        <div className="hidden lg:block">{navList}</div>
-        <Button
-          variant="gradient"
-          size="sm"
-          className="hidden lg:inline-block text-black"
+    <nav className="flex items-center justify-between flex-wrap p-6">
+      <Logo />
+
+      <div className="block lg:hidden">
+        <button
+          className={
+            "flex items-center px-3 py-2 border rounded text-blue-900 border-blue-400 hover:text-green-400"
+          }
+          onClick={dropBar}
         >
-          <span>Product hunt</span>
-        </Button>
-        <IconButton
-          variant="text"
-          className="ml-auto h-6 w-6 text-inherit hover:bg-transparent focus:bg-transparent active:bg-transparent lg:hidden"
-          ripple={false}
-          onClick={() => setOpenNav(!openNav)}
-        >
-          {openNav ? (
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              fill="none"
-              className="h-6 w-6"
-              viewBox="0 0 24 24"
-              stroke="currentColor"
-              strokeWidth={2}
-            >
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                d="M6 18L18 6M6 6l12 12"
-              />
-            </svg>
-          ) : (
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              className="h-6 w-6"
-              fill="none"
-              stroke="currentColor"
-              strokeWidth={2}
-            >
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                d="M4 6h16M4 12h16M4 18h16"
-              />
-            </svg>
-          )}
-        </IconButton>
+          <svg
+            className="fill-current h-3 w-3"
+            viewBox="0 0 20 20"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <title>Menu</title>
+            <path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z" />
+          </svg>
+        </button>
       </div>
-      <MobileNav open={openNav}>
-        {navList}
-        <Button
-          variant="gradient"
-          size="sm"
-          fullWidth
-          className="mb-2 text-black"
-        >
-          <span>Product hunt</span>
-        </Button>
-      </MobileNav>
-    </Navbar>
+      <div
+        className={
+          "w-full lg:flex lg:items-center lg:w-auto " +
+          (openNav ? " block" : " hidden")
+        }
+        // onClick={setOpenNav(!openNav)}
+      >
+        <div className="text-sm lg:flex-grow">{navList}</div>
+      </div>
+    </nav>
   );
 }
