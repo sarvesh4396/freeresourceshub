@@ -16,10 +16,10 @@ export default function MyNavBar() {
     <ul className="mb-4 mt-2 flex flex-col gap-2 lg:mb-0 lg:mt-0 lg:flex-row lg:items-center lg:gap-6">
       {pages.map(function (page) {
         return (
-          <li className="p-1 font-normal blue-gray" key={page.name}>
+          <li className="p-1 font-normal text-slate-100" key={page.name}>
             <a
               href={page.href}
-              className="flex items-center hover:text-green-800"
+              className="flex items-center hover:text-blue-800"
             >
               {page.name}
             </a>

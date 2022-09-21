@@ -3,7 +3,7 @@ import { SITE_VARS } from "./../constants/constants";
 
 function Logo() {
   return (
-    <div className="flex items-center flex-shrink-0 text-blue-900 mr-6">
+    <div className="flex items-center flex-shrink-0 text-white mr-6">
       <img
         src={require("./../assets/images/logo.png")}
         alt="Site Logo"
