@@ -6,7 +6,7 @@ import Footer from "./components/footer";
 
 function App() {
   return (
-    <div className="h-full bg-back-pattern bg-cover">
+    <div className="h-full bg-black bg-cover">
       <Router>
         <MyNavBar key="mynavbar" />
         <Routes>
