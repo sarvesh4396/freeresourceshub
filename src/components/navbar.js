@@ -1,6 +1,6 @@
-import { useState, useEffect } from "react";
-import { SITE_VARS } from "../../constants/constants";
-import Logo from "./../logo";
+import { useState } from "react";
+import { SITE_VARS } from "../constants/constants";
+import Logo from "./logo";
 
 const pages = [
   { name: "Home", href: "/" },
@@ -9,12 +9,6 @@ const pages = [
 export default function MyNavBar() {
   const [openNav, setOpenNav] = useState(false);
 
-  // useEffect(() => {
-  //   window.addEventListener(
-  //     "resize",
-  //     () => window.innerWidth >= 960 && setOpenNav(false)
-  //   );
-  // }, []);
   function dropBar(event) {
     setOpenNav(!openNav);
   }
@@ -61,7 +55,6 @@ export default function MyNavBar() {
           "w-full lg:flex lg:items-center lg:w-auto " +
           (openNav ? " block" : " hidden")
         }
-        // onClick={setOpenNav(!openNav)}
       >
         <div className="text-sm lg:flex-grow">{navList}</div>
       </div>

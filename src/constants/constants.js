@@ -1,6 +1,39 @@
 var sources = require("./../assets/data/sources.json");
 var one = require("./../assets/data/1.json");
-var two = require("./../assets/data/2.json");
+// var two = require("./../assets/data/2.json");
+
+function set_source_id() {
+  Object.keys(ALL_SOURCES).forEach((key) => {
+    const source = ALL_SOURCES[key];
+    // Setting source id for data
+    source.forEach(function (res) {
+      res["source"] = key.toString();
+    });
+  });
+}
+
+// filtering resources with same url
+function filter_data(params) {
+  return data.reduce((res, item) => {
+    if (!res.find((u) => u.url === item.url)) {
+      res.push(item);
+    }
+    return res;
+  }, []);
+}
+
+function get_plain_sources() {
+  var plain_sources = [];
+
+  Object.keys(sources).forEach((key) => {
+    plain_sources.push(sources[key].name);
+  });
+
+  return plain_sources;
+}
+
+// Vars
+const ALL_SOURCES = { 1: one };
 
 export const SITE_VARS = {
   name: "FreeResources Hub",
@@ -9,35 +42,18 @@ export const SITE_VARS = {
   github_issue: "https://github.com/sarvesh4396/freeresourceshub/issues",
   twitter: "https://twitter.com/sarvesh4396",
 };
-// Setting source id for data
-one.forEach(function (res) {
-  res["source"] = "1";
-});
 
-two.forEach(function (res) {
-  res["source"] = "2";
-});
+set_source_id();
 
 // Structuring data
-const data = [].concat(one, two);
+const data = [].concat(...Object.values(ALL_SOURCES));
 const tags = [];
 
 data.map((item) => tags.push(...item.tags));
 
-var plain_sources = [];
+var plain_sources = get_plain_sources();
 
-Object.keys(sources).forEach((key) => {
-  console.log(key);
-  plain_sources.push(sources[key].name);
-});
-
-// filtering resources with same url
-var final_data = data.reduce((res, item) => {
-  if (!res.find((u) => u.url === item.url)) {
-    res.push(item);
-  }
-  return res;
-}, []);
+var final_data = filter_data();
 
 export const DATA = {
   sources: sources,

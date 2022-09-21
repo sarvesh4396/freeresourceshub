@@ -2,28 +2,7 @@ import React from "react";
 import { DATA } from "./../constants/constants";
 import Multiselect from "multiselect-react-dropdown";
 import { ProductCard } from "../components/ProductCard";
-
-function get_tagged_resource(resources, tags) {
-  var finalResources = [];
-  for (var i = 0; i < resources.length; i++) {
-    var original = resources[i];
-    if (original.tags.some((r) => tags.includes(r))) {
-      finalResources.push(original);
-    }
-  }
-  return finalResources;
-}
-
-function get_sourced_resource(resources, sources) {
-  var finalResources = [];
-  for (var i = 0; i < resources.length; i++) {
-    var original = resources[i];
-    if (sources.includes(DATA.sources[original.source].name)) {
-      finalResources.push(original);
-    }
-  }
-  return finalResources;
-}
+import { get_tagged_resource, get_sourced_resource } from "../constants/utils";
 
 class Home extends React.Component {
   constructor(props) {
@@ -119,5 +98,3 @@ class Home extends React.Component {
 }
 
 export default Home;
-
-// style={ chips: { background: "red" }, searchBox: { border: "none", "border-bottom": "1px solid blue", "border-radius": "0px" } }
