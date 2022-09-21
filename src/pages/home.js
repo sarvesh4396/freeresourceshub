@@ -63,7 +63,7 @@ class Home extends React.Component {
 
   render() {
     return [
-      <div className="flex m-2 p-2 justify-between">
+      <div className="grid sm:grid-cols-1 md:grid-cols-4 gap-4 m-10">
         <Multiselect
           showArrow
           placeholder="Select Tags"
@@ -72,7 +72,7 @@ class Home extends React.Component {
           onSelect={this.addTag} // Function will trigger on select event
           onRemove={this.removeTag} // Function will trigger on remove event
           isObject={false}
-          className="border-2 border-blue-900 text-justify font-semibold"
+          className="text-justify font-semibold"
         />
         ,
         <Multiselect
@@ -83,7 +83,7 @@ class Home extends React.Component {
           onSelect={this.addSource} // Function will trigger on select event
           onRemove={this.removeSource} // Function will trigger on remove event
           isObject={false}
-          className="border-2 border-blue-900 text-justify font-semibold"
+          className="text-justify font-semibold"
         />
         ,
       </div>,
