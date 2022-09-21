@@ -3,9 +3,7 @@ module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
     extend: {
-      backgroundImage: {
-        "back-pattern": "url('./assets/images/background.svg')",
-      },
+      backgroundImage: {},
     },
   },
   plugins: [],
