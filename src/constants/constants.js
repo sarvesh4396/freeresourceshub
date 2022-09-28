@@ -1,4 +1,5 @@
 var sources = require("./../assets/data/sources.json");
+var zero = require("./../assets/data/0.json");
 var one = require("./../assets/data/1.json");
 var two = require("./../assets/data/2.json");
 
@@ -35,7 +36,7 @@ function get_plain_sources() {
 // Vars
 
 // Sources
-const ALL_SOURCES = { 1: one ,2:two};
+const ALL_SOURCES = { 0:zero, 1: one ,2:two};
 
 export const SITE_VARS = {
   name: "FreeResources Hub",
