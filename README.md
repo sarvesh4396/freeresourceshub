@@ -26,4 +26,10 @@ Source
 ## Credits
 
 - Thanks to all the sources sites.
+- Thanks to all our contributors.
 - Our website is powered by [Netlify](https://www.netlify.com/) & [GitHub](https://github.com/).
+
+
+## Support
+
+This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
