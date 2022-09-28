@@ -1,6 +1,6 @@
 var sources = require("./../assets/data/sources.json");
 var one = require("./../assets/data/1.json");
-// var two = require("./../assets/data/2.json");
+var two = require("./../assets/data/2.json");
 
 function set_source_id() {
   Object.keys(ALL_SOURCES).forEach((key) => {
@@ -33,7 +33,9 @@ function get_plain_sources() {
 }
 
 // Vars
-const ALL_SOURCES = { 1: one };
+
+// Sources
+const ALL_SOURCES = { 1: one ,2:two};
 
 export const SITE_VARS = {
   name: "FreeResources Hub",
