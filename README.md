@@ -40,17 +40,17 @@ This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/MuhammadJufri">
-            <img src="https://avatars.githubusercontent.com/u/97773130?v=4" width="100;" alt="MuhammadJufri"/>
-            <br />
-            <sub><b>Muhammad Aljufri</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/sarvesh4396">
             <img src="https://avatars.githubusercontent.com/u/68162479?v=4" width="100;" alt="sarvesh4396"/>
             <br />
             <sub><b>Sarvesh Kumar Dwivedi</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/MuhammadJufri">
+            <img src="https://avatars.githubusercontent.com/u/97773130?v=4" width="100;" alt="MuhammadJufri"/>
+            <br />
+            <sub><b>Muhammad Aljufri</b></sub>
         </a>
     </td></tr>
 </table>
