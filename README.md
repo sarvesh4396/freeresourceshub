@@ -29,6 +29,9 @@ Source
 - Thanks to all our contributors.
 - Our website is powered by [Netlify](https://www.netlify.com/) & [GitHub](https://github.com/).
 
+## Installing and Deploying Guide
+
+- Guide is present in repository.
 
 ## Support
 
