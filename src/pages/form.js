@@ -1,24 +1,24 @@
-import React, { useState } from 'react';
-import Multiselect from 'multiselect-react-dropdown';
-import { DATA } from './../constants/constants';
-import axios from 'axios';
+import React, { useState } from "react";
+import Multiselect from "multiselect-react-dropdown";
+import { DATA } from "./../constants/constants";
+import axios from "axios";
 
 export default function Form() {
   const [tagsOption, setTagsOption] = useState(DATA.tags);
   const [errorMessage, setErrorMessage] = useState({
-    userName: '',
-    resourceTags: '',
-    resourceName: '',
-    resourceURL: '',
-    resourceDescription: '',
+    userName: "",
+    resourceTags: "",
+    resourceName: "",
+    resourceURL: "",
+    resourceDescription: "",
   });
   const [data, setData] = useState({
-    userName: '',
-    userMail: '',
+    userName: "",
+    userMail: "",
     resourceTags: [],
-    resourceName: '',
-    resourceURL: '',
-    resourceDescription: '',
+    resourceName: "",
+    resourceURL: "",
+    resourceDescription: "",
   });
 
   const addTag = (selectedList, selectedItem) => {
@@ -38,37 +38,37 @@ export default function Form() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    if (data.userName === '') {
+    if (data.userName === "") {
       let copyErrorMessage = { ...errorMessage };
-      copyErrorMessage.userName = 'Please fill your user name!';
+      copyErrorMessage.userName = "Please fill your user name!";
       setErrorMessage(copyErrorMessage);
     } else if (data.resourceTags.length === 0) {
       let copyErrorMessage = { ...errorMessage };
-      copyErrorMessage.resourceTags = 'Please select the resource tags!';
+      copyErrorMessage.resourceTags = "Please select the resource tags!";
       setErrorMessage(copyErrorMessage);
-    } else if (data.resourceName === '') {
+    } else if (data.resourceName === "") {
       let copyErrorMessage = { ...errorMessage };
-      copyErrorMessage.resourceName = 'Please fill the resource name!';
+      copyErrorMessage.resourceName = "Please fill the resource name!";
       setErrorMessage(copyErrorMessage);
-    } else if (data.resourceURL === '') {
+    } else if (data.resourceURL === "") {
       let copyErrorMessage = { ...errorMessage };
-      copyErrorMessage.resourceURL = 'Please fill the resource url!';
+      copyErrorMessage.resourceURL = "Please fill the resource url!";
       setErrorMessage(copyErrorMessage);
-    } else if (data.resourceDescription === '') {
+    } else if (data.resourceDescription === "") {
       let copyErrorMessage = { ...errorMessage };
       copyErrorMessage.resourceDescription =
-        'Please fill the resource description!';
+        "Please fill the resource description!";
       setErrorMessage(copyErrorMessage);
     } else {
       axios
-        .post('http://localhost:8000/submittedNewData', {
+        .post("http://localhost:8000/submittedNewData", {
           tags: data.resourceTags,
           name: data.resourceName,
           url: data.resourceURL,
           description: data.resourceDescription,
         })
         .then((res) => {
-          alert('Your resource have been submitted!');
+          alert("Your resource have been submitted!");
         })
         .catch((error) => {
           console.log(error);
@@ -93,7 +93,7 @@ export default function Form() {
           onChange={(e) => handleInput(e)}
         />
         <span className="text-sm text-red-500">
-          {data.userName === '' ? errorMessage.userName : ''}
+          {data.userName === "" ? errorMessage.userName : ""}
         </span>
         <label htmlFor="email" className="text-white">
           Your Email:
@@ -120,7 +120,7 @@ export default function Form() {
           className="border-[3px] submitResourceTagInput border-black border-solid text-justify font-semibold homeSelectOptionSearch"
         />
         <span className="text-sm text-red-500">
-          {data.resourceTags.length === 0 ? errorMessage.resourceTags : ''}
+          {data.resourceTags.length === 0 ? errorMessage.resourceTags : ""}
         </span>
         <label htmlFor="resourceName" className="text-white">
           Name of the Resource:
@@ -135,7 +135,7 @@ export default function Form() {
           value={data.resourceName}
         />
         <span className="text-sm text-red-500">
-          {data.resourceName === '' ? errorMessage.resourceName : ''}
+          {data.resourceName === "" ? errorMessage.resourceName : ""}
         </span>
         <label htmlFor="resourceURL" className="text-white">
           Resource URL:
@@ -150,7 +150,7 @@ export default function Form() {
           value={data.resourceURL}
         />
         <span className="text-sm text-red-500">
-          {data.resourceURL === '' ? errorMessage.resourceURL : ''}
+          {data.resourceURL === "" ? errorMessage.resourceURL : ""}
         </span>
         <label htmlFor="description" className="text-white">
           Description:
@@ -166,9 +166,9 @@ export default function Form() {
           value={data.resourceDescription}
         />
         <span className="text-sm text-red-500">
-          {data.resourceDescription === ''
+          {data.resourceDescription === ""
             ? errorMessage.resourceDescription
-            : ''}
+            : ""}
         </span>
         <button
           type="submit"

@@ -1,11 +1,11 @@
-import React from 'react';
-import { SITE_VARS } from './../constants/constants';
+import React from "react";
+import { SITE_VARS } from "./../constants/constants";
 
 function Logo() {
   return (
     <div className="flex items-center gap-2 text-white">
       <img
-        src={require('./../assets/images/logo.png')}
+        src={require("./../assets/images/logo.png")}
         alt="Site Logo"
         className="h-20 w-20 my-2 invert"
       />

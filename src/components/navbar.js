@@ -1,10 +1,10 @@
-import { useState } from 'react';
-// import { SITE_VARS } from '../constants/constants';
-import Logo from './logo';
+import { useState } from "react";
+// import { SITE_VARS } from "../constants/constants";
+import Logo from "./logo";
 
 const pages = [
-  { name: 'Home', href: '/' },
-  { name: 'Submit Resource', href: '/submit_resource' },
+  { name: "Home", href: "/" },
+  { name: "Submit Resource", href: "/submit_resource" },
 ];
 export default function MyNavBar() {
   const [openNav, setOpenNav] = useState(false);
@@ -32,7 +32,7 @@ export default function MyNavBar() {
       <div className="block lg:hidden">
         <button
           className={
-            'flex items-center px-3 py-2 border rounded text-blue-900 border-blue-400 hover:text-green-400'
+            "flex items-center px-3 py-2 border rounded text-blue-900 border-blue-400 hover:text-green-400"
           }
           onClick={dropBar}
         >
@@ -48,8 +48,8 @@ export default function MyNavBar() {
       </div>
       <div
         className={
-          'w-full lg:flex lg:items-center lg:w-auto ' +
-          (openNav ? ' block' : ' hidden')
+          "w-full lg:flex lg:items-center lg:w-auto " +
+          (openNav ? " block" : " hidden")
         }
       >
         <div className="text-sm lg:flex-grow">{navList}</div>

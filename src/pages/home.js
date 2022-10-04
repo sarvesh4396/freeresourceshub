@@ -1,8 +1,8 @@
-import React from 'react';
-import { DATA } from './../constants/constants';
-import Multiselect from 'multiselect-react-dropdown';
-import { ProductCard } from '../components/ProductCard';
-import { get_tagged_resource, get_sourced_resource } from '../constants/utils';
+import React from "react";
+import { DATA } from "./../constants/constants";
+import Multiselect from "multiselect-react-dropdown";
+import { ProductCard } from "../components/ProductCard";
+import { get_tagged_resource, get_sourced_resource } from "../constants/utils";
 
 class Home extends React.Component {
   constructor(props) {

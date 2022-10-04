@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 export function ProductCard(item) {
   return (
@@ -7,7 +7,7 @@ export function ProductCard(item) {
         <img
           className="object-none w-20 h-20 object-center"
           src={
-            'https://s2.googleusercontent.com/s2/favicons?sz=64&domain=' +
+            "https://s2.googleusercontent.com/s2/favicons?sz=64&domain=" +
             item.url
           }
           alt={item.name}
