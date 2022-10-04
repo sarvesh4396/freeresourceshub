@@ -1,10 +1,10 @@
-import { useState } from "react";
-import { SITE_VARS } from "../constants/constants";
-import Logo from "./logo";
+import { useState } from 'react';
+// import { SITE_VARS } from '../constants/constants';
+import Logo from './logo';
 
 const pages = [
-  { name: "Home", href: "/" },
-  { name: "Submit Resource", href: SITE_VARS.github_issue },
+  { name: 'Home', href: '/' },
+  { name: 'Submit Resource', href: '/submit_resource' },
 ];
 export default function MyNavBar() {
   const [openNav, setOpenNav] = useState(false);
@@ -12,31 +12,27 @@ export default function MyNavBar() {
   function dropBar(event) {
     setOpenNav(!openNav);
   }
+
   const navList = (
-    <ul className="mb-4 mt-2 flex flex-col gap-2 lg:mb-0 lg:mt-0 lg:flex-row lg:items-center lg:gap-6">
-      {pages.map(function (page) {
-        return (
-          <li className="p-1 font-normal text-slate-100" key={page.name}>
-            <a
-              href={page.href}
-              className="flex items-center hover:text-blue-800"
-            >
-              {page.name}
-            </a>
-          </li>
-        );
-      })}
+    <ul className="flex gap-7">
+      {pages.map((li) => (
+        <li className="font-medium text-lg text-slate-100" key={li.name}>
+          <a href={li.href} className="flex items-center hover:text-lime-400">
+            {li.name}
+          </a>
+        </li>
+      ))}
     </ul>
   );
 
   return (
-    <nav className="flex items-center justify-between flex-wrap p-6">
+    <nav className="flex items-center justify-between flex-wrap py-6 px-12">
       <Logo />
 
       <div className="block lg:hidden">
         <button
           className={
-            "flex items-center px-3 py-2 border rounded text-blue-900 border-blue-400 hover:text-green-400"
+            'flex items-center px-3 py-2 border rounded text-blue-900 border-blue-400 hover:text-green-400'
           }
           onClick={dropBar}
         >
@@ -52,8 +48,8 @@ export default function MyNavBar() {
       </div>
       <div
         className={
-          "w-full lg:flex lg:items-center lg:w-auto " +
-          (openNav ? " block" : " hidden")
+          'w-full lg:flex lg:items-center lg:w-auto ' +
+          (openNav ? ' block' : ' hidden')
         }
       >
         <div className="text-sm lg:flex-grow">{navList}</div>

@@ -1,3 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+.homeSelectOptionSearch .searchWrapper {
+  padding: 10px 20px;
+  width: clamp(300px, 500px, 600px);
+  color: white;
+}
+
+.submitResourceTagInput .searchWrapper {
+  width: 100%;
+  background-color: white;
+  border-radius: 0;
+}
+
+.submitResourceTagInput .searchWrapper input {
+  background-color: white;
+  color: black;
+}

@@ -1,8 +1,8 @@
-import React from "react";
-import { DATA } from "./../constants/constants";
-import Multiselect from "multiselect-react-dropdown";
-import { ProductCard } from "../components/ProductCard";
-import { get_tagged_resource, get_sourced_resource } from "../constants/utils";
+import React from 'react';
+import { DATA } from './../constants/constants';
+import Multiselect from 'multiselect-react-dropdown';
+import { ProductCard } from '../components/ProductCard';
+import { get_tagged_resource, get_sourced_resource } from '../constants/utils';
 
 class Home extends React.Component {
   constructor(props) {
@@ -36,6 +36,7 @@ class Home extends React.Component {
     // get sources from particular tag
     if (tagsLength !== 0) {
       resources = get_tagged_resource(resources, selectedTags);
+      console.log(selectedTags);
     }
 
     this.setState({
@@ -63,7 +64,7 @@ class Home extends React.Component {
 
   render() {
     return [
-      <div className="grid sm:grid-cols-1 md:grid-cols-4 gap-4 m-10">
+      <div className="flex gap-4 items-center justify-center w-full flex-wrap">
         <Multiselect
           showArrow
           placeholder="Select Tags"
@@ -72,9 +73,8 @@ class Home extends React.Component {
           onSelect={this.addTag} // Function will trigger on select event
           onRemove={this.removeTag} // Function will trigger on remove event
           isObject={false}
-          className="text-justify font-semibold"
+          className="text-justify font-semibold homeSelectOptionSearch"
         />
-        ,
         <Multiselect
           showArrow
           placeholder="Select Sources"
@@ -83,12 +83,11 @@ class Home extends React.Component {
           onSelect={this.addSource} // Function will trigger on select event
           onRemove={this.removeSource} // Function will trigger on remove event
           isObject={false}
-          className="text-justify font-semibold"
+          className="text-justify font-semibold homeSelectOptionSearch"
         />
-        ,
       </div>,
 
-      <div className="grid sm:grid-cols-2 md:grid-cols-4 gap-4 m-10">
+      <div className="grid grid-cols-[repeat(auto-fit,minmax(500px,auto))] gap-4 m-10 justify-center items-center">
         {this.state.resources.map(function (item) {
           return ProductCard(item);
         })}

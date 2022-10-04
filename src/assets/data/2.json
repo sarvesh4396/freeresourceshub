@@ -1,2255 +1,2257 @@
-[
-    {
-        "tags": [
-            "Automation"
-        ],
-        "name": "IFTT",
-        "url": "https://ifttt.com",
-        "description": "Connect your apps and devices in new and remarkable ways"
-    },
-    {
-        "tags": [
-            "Monetisation",
-            "Investing"
-        ],
-        "name": "Indify",
-        "url": "https://indify.io/",
-        "description": "Indify connects emerging artists with the funding they need to\n                  build bigger careers"
-    },
-    {
-        "tags": [
-            "Monetisation",
-            "Streaming"
-        ],
-        "name": "StreamLoots",
-        "url": "https://www.streamloots.com/",
-        "description": "Let your fans buy real-time interactions with you"
-    },
-    {
-        "tags": [
-            "Creation"
-        ],
-        "name": "eMastered",
-        "url": "https://emastered.com/en",
-        "description": "Master Your Track, Instantly"
-    },
-    {
-        "tags": [
-            "Monetisation",
-            "Membership"
-        ],
-        "name": "Memberful",
-        "url": "https://memberful.com/",
-        "description": "Monetize your passion with membership"
-    },
-    {
-        "tags": [
-            "Creation"
-        ],
-        "name": "Resonate Recordings",
-        "url": "https://resonaterecordings.com/",
-        "description": "An easier way to launch a podcast"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Scheduling"
-        ],
-        "name": "Typefully",
-        "url": "https://typefully.app",
-        "description": "Distraction-free editor to write & publish tweets and\n                  threads."
-    },
-    {
-        "tags": [
-            "Monetisation",
-            "E-Commerce"
-        ],
-        "name": "Shopify",
-        "url": "https://shopify.com/",
-        "description": "The platform commerce is built on"
-    },
-    {
-        "tags": [
-            "Automation",
-            "Design"
-        ],
-        "name": "Viewst",
-        "url": "https://viewst.com",
-        "description": "A creative tool for media teams"
-    },
-    {
-        "tags": [
-            "Community",
-            "Monetisation"
-        ],
-        "name": "Locals",
-        "url": "https://locals.com",
-        "description": "Publish your content, engage with your supporters and make\n                  money from subscriptions"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Monetisation"
-        ],
-        "name": "Kumu",
-        "url": "https://kumu.ph",
-        "description": "Your Pinoy Livestreaming App"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Distribution"
-        ],
-        "name": "Epic Games Store",
-        "url": "https://epicgames.com/store/en-US/publish",
-        "description": "Self publish your game on the Epic Games Store"
-    },
-    {
-        "tags": [
-            "Monetisation",
-            "Community"
-        ],
-        "name": "Rally",
-        "url": "https://www.rally.io/creator/",
-        "description": "Crypto for Creative Communities"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Scheduling"
-        ],
-        "name": "Zlappo",
-        "url": "https://zlappo.com",
-        "description": "The ultimate Twitter growth tool"
-    },
-    {
-        "tags": [
-            "Community",
-            "Events"
-        ],
-        "name": "Discord",
-        "url": "https://discord.com/",
-        "description": "The easiest way to talk over voice, video, and text. Talk,\n                  chat, hang out, and stay close with your friends and\n                  communities"
-    },
-    {
-        "tags": [
-            "E-Commerce",
-            "Creation"
-        ],
-        "name": "GlobalBelly",
-        "url": "https://globalbelly.com/",
-        "description": "Discover food and baking products you love from the people you\n                  love."
-    },
-    {
-        "tags": [
-            "Monetisation",
-            "Sales"
-        ],
-        "name": "Foundation",
-        "url": "https://foundation.app/",
-        "description": "NFT marketplace curated by the Foundation creative community"
-    },
-    {
-        "tags": [
-            "Automation",
-            "Growth"
-        ],
-        "name": "Peppertype.ai",
-        "url": "https://peppertype.ai",
-        "description": "Generates content & ideas across 30+ formats automatically"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Monetisation"
-        ],
-        "name": "Ghost",
-        "url": "https://ghost.org/",
-        "description": "Turn your audience into a business"
-    },
-    {
-        "tags": [
-            "Monetisation",
-            "Community"
-        ],
-        "name": "Qoohoo",
-        "url": "https://www.qoohoo.in/",
-        "description": "Best place for creators to build communities"
-    },
-    {
-        "tags": [
-            "Stock Content Library"
-        ],
-        "name": "RawFilm",
-        "url": "https://raw.film",
-        "description": "Premium stock footage library for video creators"
-    },
-    {
-        "tags": [
-            "Automation"
-        ],
-        "name": "Integromat",
-        "url": "https://www.integromat.com/",
-        "description": "Achieve more in less time with fewer people"
-    },
-    {
-        "tags": [
-            "Monetisation",
-            "Learning"
-        ],
-        "name": "SkillShare",
-        "url": "https://www.skillshare.com/",
-        "description": "Teach on Skillshare and share your passion with members around\n                  the world"
-    },
-    {
-        "tags": [
-            "Monetisation",
-            "Community"
-        ],
-        "name": "Roll",
-        "url": "https://tryroll.com/",
-        "description": "The new standard in social money"
-    },
-    {
-        "tags": [
-            "Automation",
-            "Data"
-        ],
-        "name": "Airtable",
-        "url": "https://airtable.com/invite/r/vwJwUqiU",
-        "description": "Cloud-based software for creating and sharing relational\n                  databases"
-    },
-    {
-        "tags": [
-            "Streaming",
-            "Monetisation"
-        ],
-        "name": "Rooter",
-        "url": "https://web.rooter.gg",
-        "description": "India's biggest gaming community, eSports community"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Distribution"
-        ],
-        "name": "Callin",
-        "url": "https://www.callin.com/",
-        "description": "Create, discover and enjoy live and recorded audio content in\n                  one place"
-    },
-    {
-        "tags": [
-            "Analytics",
-            "Growth"
-        ],
-        "name": "RapidTags",
-        "url": "https://rapidtags.io",
-        "description": "Grow quicker on YouTube"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Monetisation"
-        ],
-        "name": "Clash App",
-        "url": "https://clashapp.co",
-        "description": "Shoot videos and send drops"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Marketing"
-        ],
-        "name": "CopyAI",
-        "url": "https://copy.ai",
-        "description": "Create marketing copy in seconds"
-    },
-    {
-        "tags": [
-            "Creation"
-        ],
-        "name": "Audacity",
-        "url": "https://www.audacityteam.org/",
-        "description": "Free, open source, cross-platform audio software"
-    },
-    {
-        "tags": [
-            "Banking and Financial"
-        ],
-        "name": "Qonto",
-        "url": "https://qonto.com/",
-        "description": "The all-in-one account for your business"
-    },
-    {
-        "tags": [
-            "Monetisation",
-            "Sales"
-        ],
-        "name": "Stem",
-        "url": "https://stem.is/",
-        "description": "Artist-first tools designed to help you pay your team,\n                  distribute your music, and create more freely"
-    },
-    {
-        "tags": [
-            "Marketing",
-            "Monetisation"
-        ],
-        "name": "ConvertKit",
-        "url": "https://convertkit.com/",
-        "description": "The creator marketing platform"
-    },
-    {
-        "tags": [
-            "Banking and Financial"
-        ],
-        "name": "Creative Juice",
-        "url": "https://getjuice.com/",
-        "description": "The financial network for creators"
-    },
-    {
-        "tags": [
-            "Monetisation",
-            "Community"
-        ],
-        "name": "Premium.Chat",
-        "url": "https://premium.chat/",
-        "description": "Get Paid to Chat or Consult with Clients, Fans, &\n                  Followers"
-    },
-    {
-        "tags": [
-            "Community",
-            "Distribution"
-        ],
-        "name": "Community",
-        "url": "https://www.community.com/",
-        "description": "Connect instantly with your audience through conversational\n                  text messaging at scale"
-    },
-    {
-        "tags": [
-            "E-Commerce",
-            "Marketing"
-        ],
-        "name": "Podia",
-        "url": "https://www.podia.com/?via=adil",
-        "description": "Everything you need to sell courses, webinars, downloads, and\n                  memberships"
-    },
-    {
-        "tags": [
-            "Analytics",
-            "Marketing"
-        ],
-        "name": "Backtracks",
-        "url": "https://backtracks.fm/",
-        "description": "World's most advanced podcast analytics and advertising\n                  platform"
-    },
-    {
-        "tags": [
-            "Banking and Financial"
-        ],
-        "name": "Willa",
-        "url": "https://willapay.com",
-        "description": "Superfast payments for creators"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Monetisation"
-        ],
-        "name": "Anchor",
-        "url": "https://anchor.fm/",
-        "description": "The easiest way to make a podcast"
-    },
-    {
-        "tags": [
-            "Website and App Building",
-            "Monetisation"
-        ],
-        "name": "SquareSpace",
-        "url": "http://squarespace.com",
-        "description": "Everything you need to grow your business online"
-    },
-    {
-        "tags": [
-            "Website and App Building"
-        ],
-        "name": "Webflow",
-        "url": "https://webflow.grsm.io/bc74coelseyp",
-        "description": "Webflow empowers designers to build professional, custom\n                  websites in a completely visual canvas with no code"
-    },
-    {
-        "tags": [
-            "Monetisation",
-            "Streaming"
-        ],
-        "name": "Run The World",
-        "url": "https://www.runtheworld.today/",
-        "description": "Virtual Events For Your Community"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Monetisation"
-        ],
-        "name": "Teachable",
-        "url": "https://teachable.com/",
-        "description": "Create and sell online courses and coaching"
-    },
-    {
-        "tags": [
-            "Banking and Financial",
-            "Business Management"
-        ],
-        "name": "Keeper Tax",
-        "url": "https://keepertax.com",
-        "description": "Discover the write-offs you've been missing"
-    },
-    {
-        "tags": [
-            "Marketing",
-            "Growth"
-        ],
-        "name": "BrandBird",
-        "url": "https://www.brandbird.app",
-        "description": "Turn your images into beautiful social media posts"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Marketing"
-        ],
-        "name": "Biteable",
-        "url": "https://biteable.com/",
-        "description": "Standout videos made in a snap"
-    },
-    {
-        "tags": [
-            "Monetisation",
-            "Community"
-        ],
-        "name": "Superpeer",
-        "url": "https://superpeer.com/",
-        "description": "Host cohort-based courses, live events, or 1:1 sessions"
-    },
-    {
-        "tags": [
-            "Streaming",
-            "Events"
-        ],
-        "name": "Crowdcast",
-        "url": "https://www.crowdcast.io/",
-        "description": "Reach, engage, and grow your community with online events"
-    },
-    {
-        "tags": [
-            "Business Management",
-            "Marketing"
-        ],
-        "name": "FamePick",
-        "url": "https://famepick.com/",
-        "description": "Influencer Agency Redefined"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Monetisation"
-        ],
-        "name": "Virtually",
-        "url": "https://tryvirtually.com/",
-        "description": "Everything you need to build & scale an online school"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Distribution"
-        ],
-        "name": "Roblox Create",
-        "url": "https://www.roblox.com/create",
-        "description": "Make Anything You Can Imagine"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Distribution"
-        ],
-        "name": "Mutate",
-        "url": "https://mutate.se/",
-        "description": "Unleash your creativity. Here a game can mutate into anything"
-    },
-    {
-        "tags": [
-            "Monetisation"
-        ],
-        "name": "Buy Me A Coffee",
-        "url": "https://www.buymeacoffee.com/",
-        "description": "A simple, meaningful way to fund your creative work."
-    },
-    {
-        "tags": [
-            "Creation"
-        ],
-        "name": "Splice",
-        "url": "https://splice.com/",
-        "description": "A sample marketplace for musicians"
-    },
-    {
-        "tags": [
-            "Banking and Financial",
-            "Business Management"
-        ],
-        "name": "CreateSafe",
-        "url": "https://createsafe.io/",
-        "description": "The artist management platform for full-service or \u00e0 la carte\n                  creator resources on-demand"
-    },
-    {
-        "tags": [
-            "Banking and Financial",
-            "Financing"
-        ],
-        "name": "Friz",
-        "url": "https://usefriz.com",
-        "description": "Financial Solution for freelancers, independent workers"
-    },
-    {
-        "tags": [
-            "Monetisation",
-            "Membership"
-        ],
-        "name": "Glow",
-        "url": "https://www.glow.fm/",
-        "description": "Grow membership revenue with podcasts"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Monetisation"
-        ],
-        "name": "Thinkific",
-        "url": "https://try.thinkific.com/twdbb3rjmu6u",
-        "description": "Power your education empire"
-    },
-    {
-        "tags": [
-            "Streaming",
-            "Community"
-        ],
-        "name": "Turnip",
-        "url": "https://turnip.gg",
-        "description": "Turnip is a live game streaming and community platform"
-    },
-    {
-        "tags": [
-            "Distribution",
-            "Monetisation"
-        ],
-        "name": "TagMango",
-        "url": "https://www.tagmango.com/",
-        "description": "Platform for creators to monetise their content, time and fans"
-    },
-    {
-        "tags": [
-            "Scheduling"
-        ],
-        "name": "TidyCal",
-        "url": "https://tidycal.com",
-        "description": "The best, most affordable calendar booking solution in the\n                  world"
-    },
-    {
-        "tags": [
-            "Creation"
-        ],
-        "name": "Reduct.video",
-        "url": "https://reduct.video",
-        "description": "Edit hours of video \u2014 in minutes, not days"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Streaming"
-        ],
-        "name": "Omlet",
-        "url": "https://omlet.gg",
-        "description": "Stream, Play and Win with fellow PUBG Mobile, Fortnite,\n                  Minecraft, Roblox gamers"
-    },
-    {
-        "tags": [
-            "Community",
-            "Membership"
-        ],
-        "name": "PayRole",
-        "url": "https://payrole.io",
-        "description": "Monetize your Discord community with ease"
-    },
-    {
-        "tags": [
-            "Testing and Feedback",
-            "Community"
-        ],
-        "name": "Nolt",
-        "url": "http://nolt.io/",
-        "description": "Feedback boards your users will love."
-    },
-    {
-        "tags": [
-            "Marketing",
-            "Website and App Building"
-        ],
-        "name": "MailerLite",
-        "url": "http://www.mailerlite.com/a/s1dkuhstbo",
-        "description": "Create email marketing your way"
-    },
-    {
-        "tags": [
-            "Creation"
-        ],
-        "name": "Triller",
-        "url": "https://go.triller.co/",
-        "description": "AI-powered music video app that lets anyone to make amazing\n                  videos, effortlessly."
-    },
-    {
-        "tags": [
-            "Creation",
-            "Monetisation"
-        ],
-        "name": "Playbook",
-        "url": "https://playbookapp.io/for-creators",
-        "description": "Playbook empowers fitness creators to build and grow their own\n                  subscription business."
-    },
-    {
-        "tags": [
-            "Creation",
-            "Monetisation"
-        ],
-        "name": "Float",
-        "url": "https://float.so",
-        "description": "Course builder for Notion"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Analytics"
-        ],
-        "name": "Podbean",
-        "url": "https://www.podbean.com/",
-        "description": "Podcast hosting, publication, monetisation and analytics\n                  platform"
-    },
-    {
-        "tags": [
-            "Community"
-        ],
-        "name": "Circle",
-        "url": "https://circle.so/",
-        "description": "The modern community platform for creators"
-    },
-    {
-        "tags": [
-            "Creation"
-        ],
-        "name": "ArtGrid",
-        "url": "https://artgrid.io/",
-        "description": "Stock video licensing platform created for creators"
-    },
-    {
-        "tags": [
-            "Monetisation",
-            "Partnership"
-        ],
-        "name": "PopularPays",
-        "url": "https://popularpays.com/creator/",
-        "description": "Influencer Marketing & Content Creation at Scale"
-    },
-    {
-        "tags": [
-            "Banking and Financial",
-            "Analytics"
-        ],
-        "name": "Creatorcash",
-        "url": "https://creator.cash/",
-        "description": "Provides insights on creator earnings and revenue"
-    },
-    {
-        "tags": [
-            "Monetisation",
-            "Distribution"
-        ],
-        "name": "Classcamp",
-        "url": "https://classcamp.com",
-        "description": "Classcamp is the easiest way to create an online course"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Analytics"
-        ],
-        "name": "Podcastle",
-        "url": "https://podcastle.ai",
-        "description": "Create, edit and enhance audio, conduct online interviews."
-    },
-    {
-        "tags": [
-            "Website and App Building",
-            "Membership"
-        ],
-        "name": "Terrace",
-        "url": "https://terrace.so",
-        "description": "Build your next website with just Notion"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Design"
-        ],
-        "name": "Stage",
-        "url": "https://stage.so/",
-        "description": "The easiest way to design mobile applications"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Design"
-        ],
-        "name": "Figma",
-        "url": "https://www.figma.com/",
-        "description": "A design platform for teams who build products together."
-    },
-    {
-        "tags": [
-            "Creation",
-            "Streaming"
-        ],
-        "name": "Eloelo",
-        "url": "https://play.google.com/store/apps/details?id=com.eloelo",
-        "description": "Host live social games for your fans and followers"
-    },
-    {
-        "tags": [
-            "Monetisation"
-        ],
-        "name": "RedCircle",
-        "url": "https://www.redcircle.com/",
-        "description": "The platform for podcasters and brands"
-    },
-    {
-        "tags": [
-            "Marketing",
-            "Email"
-        ],
-        "name": "Campaign Monitor",
-        "url": "https://www.campaignmonitor.com/",
-        "description": "Email marketing software with drag-and-drop simplicity"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Monetisation"
-        ],
-        "name": "Ruzuku",
-        "url": "https://www.ruzuku.com/",
-        "description": "Online learning for self-improvement"
-    },
-    {
-        "tags": [
-            "E-Commerce",
-            "Monetisation"
-        ],
-        "name": "Printful",
-        "url": "https://www.printful.com/",
-        "description": "Create and sell custom products online"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Analytics"
-        ],
-        "name": "Blubrry",
-        "url": "https://blubrry.com",
-        "description": "Podcast hosting, analytics and website"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Analytics"
-        ],
-        "name": "SquadCast",
-        "url": "https://squadcast.fm/",
-        "description": "Remote interviews for professional podcasters"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Distribution"
-        ],
-        "name": "YouTube",
-        "url": "https://youtube.com/",
-        "description": "Video sharing service where users can watch, like, share,\n                  comment and upload their own videos"
-    },
-    {
-        "tags": [
-            "Creation"
-        ],
-        "name": "Landr",
-        "url": "https://www.landr.com/",
-        "description": "Professional audio mastering"
-    },
-    {
-        "tags": [
-            "Growth",
-            "Membership"
-        ],
-        "name": "RevSync",
-        "url": "https://www.revsync.io",
-        "description": "Convert your Twitter followers to newsletter subscribers"
-    },
-    {
-        "tags": [
-            "Events",
-            "Monetisation"
-        ],
-        "name": "Moment House",
-        "url": "https://www.momenthouse.com/for-artists",
-        "description": "Livestream Events, Elevated"
-    },
-    {
-        "tags": [
-            "Creation"
-        ],
-        "name": "Type Studio",
-        "url": "https://typestudio.co/",
-        "description": "Online text-based video editor"
-    },
-    {
-        "tags": [
-            "Monetisation",
-            "Financing"
-        ],
-        "name": "Royal",
-        "url": "https://royal.io",
-        "description": "Invest in artists. Share their success."
-    },
-    {
-        "tags": [
-            "Creation"
-        ],
-        "name": "ArtList",
-        "url": "https://artlist.io/",
-        "description": "Music licensing platform created for creators"
-    },
-    {
-        "tags": [
-            "Monetisation",
-            "Distribution"
-        ],
-        "name": "Koji",
-        "url": "https://withkoji.com/fankit",
-        "description": "Develop and deploy web apps at a ludicrous speed"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Monetisation"
-        ],
-        "name": "Letterdrop",
-        "url": "https://letterdrop.co/",
-        "description": "Content marketing that converts"
-    },
-    {
-        "tags": [
-            "Streaming",
-            "Monetisation"
-        ],
-        "name": "Stream Elements",
-        "url": "https://streamelements.com/",
-        "description": "An all-in-one toolkit to help streamers grow"
-    },
-    {
-        "tags": [
-            "Website and App Building"
-        ],
-        "name": "Bubble",
-        "url": "https://bubble.io/",
-        "description": "No-code web application development tool"
-    },
-    {
-        "tags": [
-            "Community",
-            "Monetisation"
-        ],
-        "name": "Cline",
-        "url": "https://cline.app",
-        "description": "Bring your live sessions, community, and content into one\n                  place"
-    },
-    {
-        "tags": [
-            "Community",
-            "Monetisation"
-        ],
-        "name": "Bunches",
-        "url": "https://www.bunches.app/",
-        "description": "Bunches lets anyone start a free or paid group chat about\n                  (almost) anything"
-    },
-    {
-        "tags": [
-            "Website and App Building"
-        ],
-        "name": "Super",
-        "url": "https://super.so/",
-        "description": "Build simple websites with nothing but Notion"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Analytics"
-        ],
-        "name": "SoundTrap",
-        "url": "https://soundtrap.com",
-        "description": "A podcast studio in the cloud"
-    },
-    {
-        "tags": [
-            "Website and App Building",
-            "Creation"
-        ],
-        "name": "Adalo",
-        "url": "https://adalo.com/",
-        "description": "Turn your idea into reality without coding"
-    },
-    {
-        "tags": [
-            "Analytics"
-        ],
-        "name": "Podcast Ping",
-        "url": "https://podcastping.com/",
-        "description": "Uptime monitoring for podcasts"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Distribution"
-        ],
-        "name": "SoundCloud",
-        "url": "https://soundcloud.com/",
-        "description": "A social sound platform where anyone can create and share\n                  sounds"
-    },
-    {
-        "tags": [
-            "Business Management",
-            "Creation"
-        ],
-        "name": "Kookloo",
-        "url": "https://www.kookloo.com/",
-        "description": "Video sharing and discovery platform"
-    },
-    {
-        "tags": [
-            "Creation"
-        ],
-        "name": "Unfold",
-        "url": "https://unfold.com/",
-        "description": "Toolkit for storytellers"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Distribution"
-        ],
-        "name": "Snapchat",
-        "url": "https://snap.com/",
-        "description": "Express yourself - Get inspired and share your creativity"
-    },
-    {
-        "tags": [
-            "Community",
-            "Streaming"
-        ],
-        "name": "Reach Live",
-        "url": "https://reach.live/",
-        "description": "Host live & on-demand audio and video talks"
-    },
-    {
-        "tags": [
-            "Community",
-            "Monetisation"
-        ],
-        "name": "Disciple",
-        "url": "https://www.disciplemedia.com/",
-        "description": "Your own community platform"
-    },
-    {
-        "tags": [
-            "Scheduling"
-        ],
-        "name": "SidekickAI",
-        "url": "https://sidekickai.com",
-        "description": "Sidekick Books Meetings For You"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Analytics"
-        ],
-        "name": "Zencastr",
-        "url": "https://zencastr.com",
-        "description": "The easiest way to record a podcast remotely"
-    },
-    {
-        "tags": [
-            "Website and App Building",
-            "Link-in-bio"
-        ],
-        "name": "Jemi",
-        "url": "https://jemi.app/",
-        "description": "Build your creator website"
-    },
-    {
-        "tags": [
-            "Distribution",
-            "Monetisation"
-        ],
-        "name": "Udemy",
-        "url": "https://www.udemy.com/",
-        "description": "Marketplace for online courses"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Analytics"
-        ],
-        "name": "Castos",
-        "url": "https://castos.com",
-        "description": "Beautifully simple podcast hosting and analytics"
-    },
-    {
-        "tags": [
-            "Marketing",
-            "Email"
-        ],
-        "name": "Email Octopus",
-        "url": "https://emailoctopus.com",
-        "description": "Email marketing made easy"
-    },
-    {
-        "tags": [
-            "Marketing",
-            "Email"
-        ],
-        "name": "Mailmodo",
-        "url": "https://www.mailmodo.com",
-        "description": "Get 3x more leads with interactive AMP emails"
-    },
-    {
-        "tags": [
-            "Monetisation",
-            "Analytics"
-        ],
-        "name": "Sounder",
-        "url": "https://sounder.fm/",
-        "description": "The podcast platform for creators focused on growth and\n                  discovery"
-    },
-    {
-        "tags": [
-            "Monetisation",
-            "Distribution"
-        ],
-        "name": "LinkTree",
-        "url": "https://linktr.ee/",
-        "description": "The Only Link You'll Ever Need"
-    },
-    {
-        "tags": [
-            "Automation"
-        ],
-        "name": "Zapier",
-        "url": "https://zapier.com",
-        "description": "Easy automation for everyone"
-    },
-    {
-        "tags": [
-            "Monetisation",
-            "Streaming"
-        ],
-        "name": "inSTREAMLY",
-        "url": "https://instreamly.com/",
-        "description": "Get the best sponsors for your stream"
-    },
-    {
-        "tags": [
-            "Creation"
-        ],
-        "name": "VSCO",
-        "url": "https://vsco.co/",
-        "description": "Creative tools, inspiration, and a place for you to be you."
-    },
-    {
-        "tags": [
-            "Creation",
-            "Scheduling"
-        ],
-        "name": "Chime Social",
-        "url": "https://chime.so/",
-        "description": "Grow your Twitter following"
-    },
-    {
-        "tags": [
-            "Scheduling"
-        ],
-        "name": "CalendarHero",
-        "url": "https://calendarhero.com/",
-        "description": "Schedule every meeting faster."
-    },
-    {
-        "tags": [
-            "Analytics",
-            "Growth"
-        ],
-        "name": "JellySmack",
-        "url": "https://jellysmack.com",
-        "description": "JellySmack unlocks each creator's full potential"
-    },
-    {
-        "tags": [
-            "Creation"
-        ],
-        "name": "Medium",
-        "url": "https://medium.com/",
-        "description": "An open platform where expert and undiscovered voices can\n                  share their writing on any topic"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Streaming"
-        ],
-        "name": "StreamLabs",
-        "url": "https://streamlabs.com/",
-        "description": "All-in-one live streaming software"
-    },
-    {
-        "tags": [
-            "Streaming",
-            "Creation"
-        ],
-        "name": "Stream Club",
-        "url": "https://www.stream.club/",
-        "description": "Start streaming better"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Streaming"
-        ],
-        "name": "Allstar",
-        "url": "https://allstar.gg",
-        "description": "Play. Share. Star. Free Cloud-based gaming clip capture"
-    },
-    {
-        "tags": [
-            "Website and App Building"
-        ],
-        "name": "Graphite",
-        "url": "https://graphite.space/",
-        "description": "Make web design feel like home"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Monetisation"
-        ],
-        "name": "Bulletin",
-        "url": "https://www.bulletin.com/",
-        "description": "Publishing, subscription and website tools for newsletter\n                  creators"
-    },
-    {
-        "tags": [
-            "E-Commerce",
-            "Monetisation"
-        ],
-        "name": "Big Cartel",
-        "url": "https://www.bigcartel.com/",
-        "description": "Easy online stores for artists and makers"
-    },
-    {
-        "tags": [
-            "Marketing",
-            "Monetisation"
-        ],
-        "name": "#Paid",
-        "url": "https://hashtagpaid.com/",
-        "description": "Creator marketing platform"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Monetisation"
-        ],
-        "name": "Questbook",
-        "url": "https://questbook.app/teach",
-        "description": "A Decentralized University, where learning is always free."
-    },
-    {
-        "tags": [
-            "Monetisation",
-            "Community"
-        ],
-        "name": "LaunchPass",
-        "url": "https://launchpass.com/",
-        "description": "Launch a paid chat community in minutes"
-    },
-    {
-        "tags": [
-            "Distribution",
-            "Monetisation"
-        ],
-        "name": "Audius",
-        "url": "https://audius.org/",
-        "description": "Decentralized and censorship-resistant audio streaming,\n                  hosting and distribution platform"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Monetisation"
-        ],
-        "name": "Supercast",
-        "url": "https://www.supercast.com/",
-        "description": "Add a paid membership to your podcast"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Monetisation"
-        ],
-        "name": "Revue",
-        "url": "https://www.getrevue.co/",
-        "description": "Build a loyal audience"
-    },
-    {
-        "tags": [
-            "Monetisation"
-        ],
-        "name": "Islands",
-        "url": "http://islands.xyz",
-        "description": "Start monetizing"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Monetisation"
-        ],
-        "name": "Substack",
-        "url": "https://substack.com/",
-        "description": "Start a paid newsletter"
-    },
-    {
-        "tags": [
-            "Community",
-            "Monetisation"
-        ],
-        "name": "threedots",
-        "url": "https://threedots.app",
-        "description": "Create and run financial and investment communities"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Design"
-        ],
-        "name": "Storytale",
-        "url": "https://storytale.io/",
-        "description": "High-class illustrations for web and mobile projects"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Marketing"
-        ],
-        "name": "Black Magic",
-        "url": "https://blackmagic.so",
-        "description": "Twitter growth tool"
-    },
-    {
-        "tags": [
-            "Banking and Financial"
-        ],
-        "name": "Lili",
-        "url": "https://lili.co",
-        "description": "Banking designed for freelancers"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Distribution"
-        ],
-        "name": "Instagram",
-        "url": "https://instagram.com",
-        "description": "Photo and video sharing social networking service"
-    },
-    {
-        "tags": [
-            "Creation"
-        ],
-        "name": "Castup",
-        "url": "https://www.usecastup.com/",
-        "description": "Professional podcast editing from 40\u00a2 per published minute"
-    },
-    {
-        "tags": [
-            "Community",
-            "Creation"
-        ],
-        "name": "Fleeks",
-        "url": "www.fleeks.co.in",
-        "description": "One platform to give your fans everything"
-    },
-    {
-        "tags": [
-            "Creation"
-        ],
-        "name": "Runway ML",
-        "url": "https://runwayml.com/",
-        "description": "Next gen creative toolkit powered by machine learning"
-    },
-    {
-        "tags": [
-            "Community",
-            "Monetisation"
-        ],
-        "name": "Fanhouse",
-        "url": "https://fanhouse.app/",
-        "description": "Connect with a community who wants to see the real you"
-    },
-    {
-        "tags": [
-            "Monetisation",
-            "Partnership"
-        ],
-        "name": "TRIBE",
-        "url": "https://www.tribegroup.co/influencers",
-        "description": "Influencer Marketing Platform for Brands & Agencies"
-    },
-    {
-        "tags": [
-            "Creation"
-        ],
-        "name": "Bcast",
-        "url": "https://www.bcast.fm/",
-        "description": "Podcast Hosting For High Growth Businesses"
-    },
-    {
-        "tags": [
-            "Banking and Financial"
-        ],
-        "name": "Oxygen",
-        "url": "https://oxygen.us",
-        "description": "Providing business banking to digital natives, creators and\n                  entrepreneurs"
-    },
-    {
-        "tags": [
-            "E-Commerce"
-        ],
-        "name": "Supliful",
-        "url": "https://supliful.com",
-        "description": "Start your own supplement product line"
-    },
-    {
-        "tags": [
-            "Community"
-        ],
-        "name": "Geneva",
-        "url": "https://www.geneva.com/",
-        "description": "This is where your group chats"
-    },
-    {
-        "tags": [
-            "Monetisation",
-            "Website and App Building"
-        ],
-        "name": "Beacons",
-        "url": "https://beacons.ai/",
-        "description": "Link-in-bio website builder for creators"
-    },
-    {
-        "tags": [
-            "Creation"
-        ],
-        "name": "Lightricks",
-        "url": "https://www.lightricks.com/",
-        "description": "Lightricks integrates advanced technologies from computer\n                  vision, computer graphics, and image processing into mobile\n                  products"
-    },
-    {
-        "tags": [
-            "Monetisation"
-        ],
-        "name": "Ko-fi",
-        "url": "https://ko-fi.com/",
-        "description": "Make an Income Doing What You Love"
-    },
-    {
-        "tags": [
-            "Website and App Building"
-        ],
-        "name": "Universe",
-        "url": "https://onuniverse.com/",
-        "description": "A magical new way to build websites"
-    },
-    {
-        "tags": [
-            "Stock Content Library"
-        ],
-        "name": "Noun Project",
-        "url": "https://thenounproject.com",
-        "description": "The Most Comprehensive Icon Collection in the World"
-    },
-    {
-        "tags": [
-            "Creation"
-        ],
-        "name": "Tweethunter",
-        "url": "http://app.tweethunter.io/?via=adil",
-        "description": "Helping you find the best tweets on any topic to stay inspired"
-    },
-    {
-        "tags": [
-            "Growth",
-            "Analytics"
-        ],
-        "name": "Katlinks",
-        "url": "https://katlinks.io",
-        "description": "SEO Tool to help you rank higher and get more users"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Distribution"
-        ],
-        "name": "Superset",
-        "url": "https://www.supersetapp.com/",
-        "description": "Sell online workout programs and memberships within your own\n                  standalone digital experience"
-    },
-    {
-        "tags": [
-            "Streaming"
-        ],
-        "name": "Xsplit",
-        "url": "https://www.xsplit.com/",
-        "description": "Live-streaming and recording platform"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Distribution"
-        ],
-        "name": "gg.tv",
-        "url": "http://ggtv.co",
-        "description": "Browse & Create Gaming Clips and Highlights"
-    },
-    {
-        "tags": [
-            "Monetisation"
-        ],
-        "name": "Podcorn",
-        "url": "https://podcorn.com/",
-        "description": "The leading podcast influencer marketplace"
-    },
-    {
-        "tags": [
-            "Community",
-            "Freelancer"
-        ],
-        "name": "Contra",
-        "url": "https://contra.com",
-        "description": "Create and monetize your new project-based, collaborative\n                  professional identity"
-    },
-    {
-        "tags": [
-            "Distribution",
-            "Monetisation"
-        ],
-        "name": "Caffeine",
-        "url": "https://www.caffeine.tv/",
-        "description": "Social broadcasting company focused on the creation and\n                  distribution of live, interactive content"
-    },
-    {
-        "tags": [
-            "Membership",
-            "Monetisation"
-        ],
-        "name": "Cereal",
-        "url": "https://trycereal.com",
-        "description": "Create premium membership sites for all your content"
-    },
-    {
-        "tags": [
-            "Community",
-            "Monetisation"
-        ],
-        "name": "Oooh",
-        "url": "http://www.oooh.tv",
-        "description": "In Beta"
-    },
-    {
-        "tags": [
-            "Monetisation"
-        ],
-        "name": "CreatorStack",
-        "url": "https://creatorstack.co/",
-        "description": "Turn your passion into a profitable venture in the cloud"
-    },
-    {
-        "tags": [
-            "Website and App Building"
-        ],
-        "name": "Carrd",
-        "url": "https://carrd.co",
-        "description": "Build one-page responsive sites for anything"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Distribution"
-        ],
-        "name": "Maven",
-        "url": "https://maven.com",
-        "description": "Maven is a new platform for cohort-based courses"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Marketing"
-        ],
-        "name": "Descript",
-        "url": "https://www.descript.com/",
-        "description": "Text-based audio editor and automated transcription"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Monetisation"
-        ],
-        "name": "Learn Worlds",
-        "url": "https://www.learnworlds.com",
-        "description": "Create and sell online courses from your own website"
-    },
-    {
-        "tags": [
-            "Banking and Financial"
-        ],
-        "name": "Karat",
-        "url": "https://www.trykarat.com/",
-        "description": "Karat is the Black Card for Creators."
-    },
-    {
-        "tags": [
-            "Business Management",
-            "Monetisation"
-        ],
-        "name": "CloutJam",
-        "url": "https://www.cloutjam.com/",
-        "description": "Tools, guidance, and community to help manage and grow your\n                  business as a creator"
-    },
-    {
-        "tags": [
-            "Banking and Financial"
-        ],
-        "name": "Stir",
-        "url": "https://usestir.com/",
-        "description": "The financial studio for creators"
-    },
-    {
-        "tags": [
-            "Website and App Building"
-        ],
-        "name": "Typedream",
-        "url": "https://typedream.com/",
-        "description": "Typedream helps you build a beautiful website using a simple\n                  interface"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Monetisation"
-        ],
-        "name": "Bitclass",
-        "url": "https://bitclass.live/teach-on-bitclass",
-        "description": "We Help Build Highly Successful Online Teaching Businesses"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Distribution"
-        ],
-        "name": "Twitter",
-        "url": "http://twitter.com/",
-        "description": "Social platform where users send and read tweets"
-    },
-    {
-        "tags": [
-            "Creation"
-        ],
-        "name": "Mojo App",
-        "url": "https://mojo.video/",
-        "description": "Create stunning animated video stories"
-    },
-    {
-        "tags": [
-            "Monetisation",
-            "Membership"
-        ],
-        "name": "Patreon",
-        "url": "http://www.patreon.com/",
-        "description": "Let your most passionate fans support your creative work via\n                  monthly membership"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Distribution"
-        ],
-        "name": "TikTok/Bytedance",
-        "url": "https://tiktok.com/en/",
-        "description": "A short-video sharing app and social network platform"
-    },
-    {
-        "tags": [
-            "Community"
-        ],
-        "name": "Commsor",
-        "url": "https://www.commsor.com/",
-        "description": "The community operating system for your entire company"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Streaming"
-        ],
-        "name": "Twitch",
-        "url": "https://twitch.tv/",
-        "description": "A video platform where gamers can broadcast, watch, and talk\n                  about video games."
-    },
-    {
-        "tags": [
-            "Streaming"
-        ],
-        "name": "Stage Ten",
-        "url": "https://stageten.tv/",
-        "description": "Interactive content and commerce platform for creating,\n                  distributing and discovering live video streams"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Design"
-        ],
-        "name": "Craftwork",
-        "url": "https://craftwork.design/",
-        "description": "Digital market with fully customizable design products"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Design"
-        ],
-        "name": "Invision",
-        "url": "https://www.invisionapp.com/",
-        "description": "Design Better. Faster. Together."
-    },
-    {
-        "tags": [
-            "Creation",
-            "Distribution"
-        ],
-        "name": "Trell",
-        "url": "https://trell.co",
-        "description": "Largest Lifestyle Social Commerce platform in Indian languages"
-    },
-    {
-        "tags": [
-            "Growth",
-            "Monetisation"
-        ],
-        "name": "Paved",
-        "url": "https://www.paved.com",
-        "description": "All-in-one platform for newsletter sponsorships"
-    },
-    {
-        "tags": [
-            "Monetisation",
-            "Streaming"
-        ],
-        "name": "Tipeee",
-        "url": "https://en.tipeee.com/",
-        "description": "Collect tips while you're streaming"
-    },
-    {
-        "tags": [
-            "Creation"
-        ],
-        "name": "Kapwing",
-        "url": "https://kapwing.com/",
-        "description": "Online editor for modern videos, GIFs, and images"
-    },
-    {
-        "tags": [
-            "Monetisation",
-            "Analytics"
-        ],
-        "name": "Pico",
-        "url": "https://trypico.com/",
-        "description": "The operating system for creator businesses"
-    },
-    {
-        "tags": [
-            "Community",
-            "Monetisation"
-        ],
-        "name": "Luma",
-        "url": "https://lu.ma/",
-        "description": "Foster meaningful relationships with events, newsletters and\n                  community analytics"
-    },
-    {
-        "tags": [
-            "Creation"
-        ],
-        "name": "Instasize",
-        "url": "https://instasize.com/",
-        "description": "Photo editor and video editing toolkit for creatives"
-    },
-    {
-        "tags": [
-            "Community",
-            "Analytics"
-        ],
-        "name": "Threado",
-        "url": "https://threado.com/",
-        "description": "The modern way to build an engaged brand community"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Monetisation"
-        ],
-        "name": "Kiwify",
-        "url": "https://kiwify.com.br/",
-        "description": "Venda seu curso online"
-    },
-    {
-        "tags": [
-            "Analytics",
-            "Growth"
-        ],
-        "name": "TubeBuddy",
-        "url": "https://www.tubebuddy.com/",
-        "description": "Grow Your YouTube Channel Faster!"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Membership"
-        ],
-        "name": "Flowjin",
-        "url": "https://flowjin.com",
-        "description": "Monetize & engage your audience with audio content"
-    },
-    {
-        "tags": [
-            "Monetisation",
-            "Sales"
-        ],
-        "name": "Zora",
-        "url": "https://zora.co/",
-        "description": "The decentralized protocol for NFT marketplaces"
-    },
-    {
-        "tags": [
-            "Analytics",
-            "Automation"
-        ],
-        "name": "Campfire",
-        "url": "https://campfire.so",
-        "description": "Build Incredible Communities"
-    },
-    {
-        "tags": [
-            "Website and App Building",
-            "Analytics"
-        ],
-        "name": "Spore",
-        "url": "https://spore.build",
-        "description": "Where podcasters build their business"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Analytics"
-        ],
-        "name": "Captivate",
-        "url": "https://www.captivate.fm/",
-        "description": "Everything you need to start, manage & monetize your\n                  podcast"
-    },
-    {
-        "tags": [
-            "Creation"
-        ],
-        "name": "Athenascope",
-        "url": "https://athenascope.com",
-        "description": "Effortless Gaming Highlights"
-    },
-    {
-        "tags": [
-            "Scheduling",
-            "Social Media Management"
-        ],
-        "name": "Buffer",
-        "url": "https://buffer.com",
-        "description": "All-you-need social media toolkit for creators and business"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Scheduling"
-        ],
-        "name": "Chirr",
-        "url": "https://getchirrapp.com/",
-        "description": "The best Twitter thread maker app"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Scheduling"
-        ],
-        "name": "Hypefury",
-        "url": "https://hypefury.com",
-        "description": "Grow & monetize your Twitter audience like never before"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Marketing"
-        ],
-        "name": "We Edit Podcasts",
-        "url": "https://www.weeditpodcasts.com/",
-        "description": "Podcast editing, transcription, show notes and marketing\n                  service"
-    },
-    {
-        "tags": [
-            "Website and App Building",
-            "Link-in-bio"
-        ],
-        "name": "Protonn",
-        "url": "https://protonn.com",
-        "description": "All-in-one solution to empower independent professionals"
-    },
-    {
-        "tags": [
-            "Link-in-bio"
-        ],
-        "name": "Solo.to",
-        "url": "https://solo.to",
-        "description": "One bio link for everything"
-    },
-    {
-        "tags": [
-            "Creation",
-            "E-Commerce"
-        ],
-        "name": "Bitski",
-        "url": "https://bitski.com",
-        "description": "Powering the commerce layer of the metaverse"
-    },
-    {
-        "tags": [
-            "Monetisation",
-            "E-Commerce"
-        ],
-        "name": "Gumroad",
-        "url": "https://gumroad.com/",
-        "description": "Sell Digital Products & Memberships"
-    },
-    {
-        "tags": [
-            "Website and App Building",
-            "Monetisation"
-        ],
-        "name": "Wix",
-        "url": "https://wix.com",
-        "description": "No-code website building and e-commerce platform"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Streaming"
-        ],
-        "name": "Lightstream",
-        "url": "https://lightstream.gg/",
-        "description": "A live streaming production studio in your browser"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Distribution"
-        ],
-        "name": "OnlyFans",
-        "url": "https://onlyfans.com/",
-        "description": "OnlyFans is a subscription-based social media and\n                  content-sharing platform."
-    },
-    {
-        "tags": [
-            "Website and App Building"
-        ],
-        "name": "Glide",
-        "url": "https://www.glideapps.com/",
-        "description": "Build an app from a Google Sheet in five minutes, for free"
-    },
-    {
-        "tags": [
-            "Creation"
-        ],
-        "name": "Pinata Farms",
-        "url": "https://pinatafarm.com/download",
-        "description": "The fastest video meme maker"
-    },
-    {
-        "tags": [
-            "Distribution"
-        ],
-        "name": "Castbox",
-        "url": "https://castbox.fm/",
-        "description": "An easy to use podcast, radio, & audiobook app"
-    },
-    {
-        "tags": [
-            "Community",
-            "Monetisation"
-        ],
-        "name": "Honeycommb",
-        "url": "https://www.honeycommb.com/",
-        "description": "The world's premier community platform"
-    },
-    {
-        "tags": [
-            "Scheduling"
-        ],
-        "name": "Calendly",
-        "url": "https://calendly.grsm.io/u7t35g814kaa",
-        "description": "Schedule meetings faster"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Analytics"
-        ],
-        "name": "Buzzsprout",
-        "url": "https://www.buzzsprout.com/",
-        "description": "Plan, record and launch your podcast"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Distribution"
-        ],
-        "name": "PocketFM Studio",
-        "url": "https://studio.pocketfm.in",
-        "description": "Share Your Stories and Voice With the World"
-    },
-    {
-        "tags": [
-            "Website and App Building",
-            "Monetisation"
-        ],
-        "name": "Weebly",
-        "url": "http://weebly.com",
-        "description": "Platform to easily create a website, blog or online store"
-    },
-    {
-        "tags": [
-            "E-Commerce",
-            "Monetisation"
-        ],
-        "name": "Nexus",
-        "url": "https://www.nexus.gg/",
-        "description": "Build your very own game store"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Analytics"
-        ],
-        "name": "Fireside",
-        "url": "https://fireside.fm",
-        "description": "Powerful podcast hosting & analytics"
-    },
-    {
-        "tags": [
-            "Distribution",
-            "Monetisation"
-        ],
-        "name": "Laylo",
-        "url": "https://laylo.com/",
-        "description": "Create the perfect landing page for your upcoming merch,\n                  content, and events."
-    },
-    {
-        "tags": [
-            "Streaming"
-        ],
-        "name": "Restream",
-        "url": "https://restream.io/",
-        "description": "Run professional live streams from your browser"
-    },
-    {
-        "tags": [
-            "Marketing",
-            "Sales"
-        ],
-        "name": "ActiveCampaign",
-        "url": "https://www.activecampaign.com",
-        "description": "#1 Customer Experience Automation Platform"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Design"
-        ],
-        "name": "Air",
-        "url": "https://air.inc",
-        "description": "Centralize your team's content in a workspace that's\n                  organized, versioned, and easy to share"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Scheduling"
-        ],
-        "name": "Later",
-        "url": "https://later.com/",
-        "description": "The world\u2019s favorite Instagram marketing platform (and much\n                  more)"
-    },
-    {
-        "tags": [
-            "Community",
-            "Monetisation"
-        ],
-        "name": "MightyNetworks",
-        "url": "https://www.mightynetworks.com/",
-        "description": "Bring your community, courses, memberships, and events\n                  together in one place under your brand"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Marketing"
-        ],
-        "name": "SEOCopy.ai",
-        "url": "https://SEOCopy.ai",
-        "description": "Generate SEO blog posts in minutes with AI"
-    },
-    {
-        "tags": [
-            "E-Commerce",
-            "Distribution"
-        ],
-        "name": "Popshop Live",
-        "url": "https://popshop.live/",
-        "description": "Shop, Sell, Stream!"
-    },
-    {
-        "tags": [
-            "Creation"
-        ],
-        "name": "BeatStars",
-        "url": "https://www.beatstars.com/",
-        "description": "Social music marketplace & distribution company"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Analytics"
-        ],
-        "name": "Spreaker",
-        "url": "https://www.spreaker.com/",
-        "description": "Everything you need to podcast"
-    },
-    {
-        "tags": [
-            "Website and App Building",
-            "Link-in-bio"
-        ],
-        "name": "Sprinkles",
-        "url": "https://sprinkles.tech/",
-        "description": "Build a microsite, engage with your audience, monetize\n                  content, and own your data"
-    },
-    {
-        "tags": [
-            "Banking and Financial"
-        ],
-        "name": "Lance",
-        "url": "https://lance.app",
-        "description": "Revolutionizing Freelance Banking"
-    },
-    {
-        "tags": [
-            "Link-in-bio",
-            "Distribution"
-        ],
-        "name": "Campsite.bio",
-        "url": "https://campsite.bio",
-        "description": "Your social bio link outfitter"
-    },
-    {
-        "tags": [
-            "Creation"
-        ],
-        "name": "Disco",
-        "url": "https://disco.co",
-        "description": "Where creators build LIVE learning experiences"
-    },
-    {
-        "tags": [
-            "Community",
-            "Link-in-bio"
-        ],
-        "name": "Norby",
-        "url": "https://norby.live",
-        "description": "Your link in bio, SMS, newsletters and events, all in one\n                  place"
-    },
-    {
-        "tags": [
-            "E-Commerce",
-            "Monetisation"
-        ],
-        "name": "Sellfy",
-        "url": "https://get.sellfy.com/creatorbase",
-        "description": "E-commerce app for selling digital products trusted by\n                  300,000+ creators."
-    },
-    {
-        "tags": [
-            "Community",
-            "Analytics"
-        ],
-        "name": "Orbit",
-        "url": "https://orbit.love/",
-        "description": "Mission control for your community"
-    },
-    {
-        "tags": [
-            "Creation"
-        ],
-        "name": "Alitu",
-        "url": "https://alitu.com/",
-        "description": "Podcast editing and recording platform"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Distribution"
-        ],
-        "name": "Steam",
-        "url": "https://store.steampowered.com",
-        "description": "Enabling gamers and game creators to publish, connect, play,\n                  create and share content"
-    },
-    {
-        "tags": [
-            "Analytics"
-        ],
-        "name": "Baremetrics",
-        "url": "https://baremetrics.com",
-        "description": "Subscription Analytics & Insights"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Analytics"
-        ],
-        "name": "Transistor",
-        "url": "https://transistor.fm/?via=adil",
-        "description": "Podcast hosting and analytics platform"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Analytics"
-        ],
-        "name": "Riverside",
-        "url": "https://riverside.fm/",
-        "description": "Record a radio-like podcast and let your listeners call in"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Scheduling"
-        ],
-        "name": "Planoly",
-        "url": "https://planoly.com",
-        "description": "Simplifying Social Marketing"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Analytics"
-        ],
-        "name": "Simplecast",
-        "url": "https://simplecast.com",
-        "description": "The modern podcast management and metrics platform"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Design"
-        ],
-        "name": "Sketch",
-        "url": "https://www.sketch.com/",
-        "description": "A tool for digital design, empowering designers to share and\n                  collaborate on their designs"
-    },
-    {
-        "tags": [
-            "Design",
-            "Marketing"
-        ],
-        "name": "Canva",
-        "url": "https://canva.com",
-        "description": "Online graphic design and publishing tool"
-    },
-    {
-        "tags": [
-            "Link-in-bio",
-            "E-Commerce"
-        ],
-        "name": "Expy",
-        "url": "https://expy.bio/",
-        "description": "A creator-first link-in-bio website builder"
-    },
-    {
-        "tags": [
-            "Website and App Building",
-            "Automation"
-        ],
-        "name": "Ycode",
-        "url": "https://ycode.com",
-        "description": "No code web app builder: Create advanced web apps"
-    },
-    {
-        "tags": [
-            "Creation",
-            "Distribution"
-        ],
-        "name": "Kajabi",
-        "url": "https://kajabi.com/",
-        "description": "The #1 Platform to Grow Your Knowledge Business"
-    },
-    {
-        "tags": [
-            "E-Commerce",
-            "Monetisation"
-        ],
-        "name": "Printify",
-        "url": "https://printify.com/",
-        "description": "Create and sell custom products"
-    },
-    {
-        "tags": [
-            "Community"
-        ],
-        "name": "Tribe",
-        "url": "https://tribe.so/",
-        "description": "A customizable community platform for businesses"
-    },
-    {
-        "tags": [
-            "Community",
-            "Distribution"
-        ],
-        "name": "Panion",
-        "url": "https://panion.com/",
-        "description": "Panion is an all-in-one community management platform"
-    }
-]
+{
+    "data": [
+        {
+            "tags": [
+                "Automation"
+            ],
+            "name": "IFTT",
+            "url": "https://ifttt.com",
+            "description": "Connect your apps and devices in new and remarkable ways"
+        },
+        {
+            "tags": [
+                "Monetisation",
+                "Investing"
+            ],
+            "name": "Indify",
+            "url": "https://indify.io/",
+            "description": "Indify connects emerging artists with the funding they need to\n                  build bigger careers"
+        },
+        {
+            "tags": [
+                "Monetisation",
+                "Streaming"
+            ],
+            "name": "StreamLoots",
+            "url": "https://www.streamloots.com/",
+            "description": "Let your fans buy real-time interactions with you"
+        },
+        {
+            "tags": [
+                "Creation"
+            ],
+            "name": "eMastered",
+            "url": "https://emastered.com/en",
+            "description": "Master Your Track, Instantly"
+        },
+        {
+            "tags": [
+                "Monetisation",
+                "Membership"
+            ],
+            "name": "Memberful",
+            "url": "https://memberful.com/",
+            "description": "Monetize your passion with membership"
+        },
+        {
+            "tags": [
+                "Creation"
+            ],
+            "name": "Resonate Recordings",
+            "url": "https://resonaterecordings.com/",
+            "description": "An easier way to launch a podcast"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Scheduling"
+            ],
+            "name": "Typefully",
+            "url": "https://typefully.app",
+            "description": "Distraction-free editor to write & publish tweets and\n                  threads."
+        },
+        {
+            "tags": [
+                "Monetisation",
+                "E-Commerce"
+            ],
+            "name": "Shopify",
+            "url": "https://shopify.com/",
+            "description": "The platform commerce is built on"
+        },
+        {
+            "tags": [
+                "Automation",
+                "Design"
+            ],
+            "name": "Viewst",
+            "url": "https://viewst.com",
+            "description": "A creative tool for media teams"
+        },
+        {
+            "tags": [
+                "Community",
+                "Monetisation"
+            ],
+            "name": "Locals",
+            "url": "https://locals.com",
+            "description": "Publish your content, engage with your supporters and make\n                  money from subscriptions"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Monetisation"
+            ],
+            "name": "Kumu",
+            "url": "https://kumu.ph",
+            "description": "Your Pinoy Livestreaming App"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Distribution"
+            ],
+            "name": "Epic Games Store",
+            "url": "https://epicgames.com/store/en-US/publish",
+            "description": "Self publish your game on the Epic Games Store"
+        },
+        {
+            "tags": [
+                "Monetisation",
+                "Community"
+            ],
+            "name": "Rally",
+            "url": "https://www.rally.io/creator/",
+            "description": "Crypto for Creative Communities"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Scheduling"
+            ],
+            "name": "Zlappo",
+            "url": "https://zlappo.com",
+            "description": "The ultimate Twitter growth tool"
+        },
+        {
+            "tags": [
+                "Community",
+                "Events"
+            ],
+            "name": "Discord",
+            "url": "https://discord.com/",
+            "description": "The easiest way to talk over voice, video, and text. Talk,\n                  chat, hang out, and stay close with your friends and\n                  communities"
+        },
+        {
+            "tags": [
+                "E-Commerce",
+                "Creation"
+            ],
+            "name": "GlobalBelly",
+            "url": "https://globalbelly.com/",
+            "description": "Discover food and baking products you love from the people you\n                  love."
+        },
+        {
+            "tags": [
+                "Monetisation",
+                "Sales"
+            ],
+            "name": "Foundation",
+            "url": "https://foundation.app/",
+            "description": "NFT marketplace curated by the Foundation creative community"
+        },
+        {
+            "tags": [
+                "Automation",
+                "Growth"
+            ],
+            "name": "Peppertype.ai",
+            "url": "https://peppertype.ai",
+            "description": "Generates content & ideas across 30+ formats automatically"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Monetisation"
+            ],
+            "name": "Ghost",
+            "url": "https://ghost.org/",
+            "description": "Turn your audience into a business"
+        },
+        {
+            "tags": [
+                "Monetisation",
+                "Community"
+            ],
+            "name": "Qoohoo",
+            "url": "https://www.qoohoo.in/",
+            "description": "Best place for creators to build communities"
+        },
+        {
+            "tags": [
+                "Stock Content Library"
+            ],
+            "name": "RawFilm",
+            "url": "https://raw.film",
+            "description": "Premium stock footage library for video creators"
+        },
+        {
+            "tags": [
+                "Automation"
+            ],
+            "name": "Integromat",
+            "url": "https://www.integromat.com/",
+            "description": "Achieve more in less time with fewer people"
+        },
+        {
+            "tags": [
+                "Monetisation",
+                "Learning"
+            ],
+            "name": "SkillShare",
+            "url": "https://www.skillshare.com/",
+            "description": "Teach on Skillshare and share your passion with members around\n                  the world"
+        },
+        {
+            "tags": [
+                "Monetisation",
+                "Community"
+            ],
+            "name": "Roll",
+            "url": "https://tryroll.com/",
+            "description": "The new standard in social money"
+        },
+        {
+            "tags": [
+                "Automation",
+                "Data"
+            ],
+            "name": "Airtable",
+            "url": "https://airtable.com/invite/r/vwJwUqiU",
+            "description": "Cloud-based software for creating and sharing relational\n                  databases"
+        },
+        {
+            "tags": [
+                "Streaming",
+                "Monetisation"
+            ],
+            "name": "Rooter",
+            "url": "https://web.rooter.gg",
+            "description": "India's biggest gaming community, eSports community"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Distribution"
+            ],
+            "name": "Callin",
+            "url": "https://www.callin.com/",
+            "description": "Create, discover and enjoy live and recorded audio content in\n                  one place"
+        },
+        {
+            "tags": [
+                "Analytics",
+                "Growth"
+            ],
+            "name": "RapidTags",
+            "url": "https://rapidtags.io",
+            "description": "Grow quicker on YouTube"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Monetisation"
+            ],
+            "name": "Clash App",
+            "url": "https://clashapp.co",
+            "description": "Shoot videos and send drops"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Marketing"
+            ],
+            "name": "CopyAI",
+            "url": "https://copy.ai",
+            "description": "Create marketing copy in seconds"
+        },
+        {
+            "tags": [
+                "Creation"
+            ],
+            "name": "Audacity",
+            "url": "https://www.audacityteam.org/",
+            "description": "Free, open source, cross-platform audio software"
+        },
+        {
+            "tags": [
+                "Banking and Financial"
+            ],
+            "name": "Qonto",
+            "url": "https://qonto.com/",
+            "description": "The all-in-one account for your business"
+        },
+        {
+            "tags": [
+                "Monetisation",
+                "Sales"
+            ],
+            "name": "Stem",
+            "url": "https://stem.is/",
+            "description": "Artist-first tools designed to help you pay your team,\n                  distribute your music, and create more freely"
+        },
+        {
+            "tags": [
+                "Marketing",
+                "Monetisation"
+            ],
+            "name": "ConvertKit",
+            "url": "https://convertkit.com/",
+            "description": "The creator marketing platform"
+        },
+        {
+            "tags": [
+                "Banking and Financial"
+            ],
+            "name": "Creative Juice",
+            "url": "https://getjuice.com/",
+            "description": "The financial network for creators"
+        },
+        {
+            "tags": [
+                "Monetisation",
+                "Community"
+            ],
+            "name": "Premium.Chat",
+            "url": "https://premium.chat/",
+            "description": "Get Paid to Chat or Consult with Clients, Fans, &\n                  Followers"
+        },
+        {
+            "tags": [
+                "Community",
+                "Distribution"
+            ],
+            "name": "Community",
+            "url": "https://www.community.com/",
+            "description": "Connect instantly with your audience through conversational\n                  text messaging at scale"
+        },
+        {
+            "tags": [
+                "E-Commerce",
+                "Marketing"
+            ],
+            "name": "Podia",
+            "url": "https://www.podia.com/?via=adil",
+            "description": "Everything you need to sell courses, webinars, downloads, and\n                  memberships"
+        },
+        {
+            "tags": [
+                "Analytics",
+                "Marketing"
+            ],
+            "name": "Backtracks",
+            "url": "https://backtracks.fm/",
+            "description": "World's most advanced podcast analytics and advertising\n                  platform"
+        },
+        {
+            "tags": [
+                "Banking and Financial"
+            ],
+            "name": "Willa",
+            "url": "https://willapay.com",
+            "description": "Superfast payments for creators"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Monetisation"
+            ],
+            "name": "Anchor",
+            "url": "https://anchor.fm/",
+            "description": "The easiest way to make a podcast"
+        },
+        {
+            "tags": [
+                "Website and App Building",
+                "Monetisation"
+            ],
+            "name": "SquareSpace",
+            "url": "http://squarespace.com",
+            "description": "Everything you need to grow your business online"
+        },
+        {
+            "tags": [
+                "Website and App Building"
+            ],
+            "name": "Webflow",
+            "url": "https://webflow.grsm.io/bc74coelseyp",
+            "description": "Webflow empowers designers to build professional, custom\n                  websites in a completely visual canvas with no code"
+        },
+        {
+            "tags": [
+                "Monetisation",
+                "Streaming"
+            ],
+            "name": "Run The World",
+            "url": "https://www.runtheworld.today/",
+            "description": "Virtual Events For Your Community"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Monetisation"
+            ],
+            "name": "Teachable",
+            "url": "https://teachable.com/",
+            "description": "Create and sell online courses and coaching"
+        },
+        {
+            "tags": [
+                "Banking and Financial",
+                "Business Management"
+            ],
+            "name": "Keeper Tax",
+            "url": "https://keepertax.com",
+            "description": "Discover the write-offs you've been missing"
+        },
+        {
+            "tags": [
+                "Marketing",
+                "Growth"
+            ],
+            "name": "BrandBird",
+            "url": "https://www.brandbird.app",
+            "description": "Turn your images into beautiful social media posts"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Marketing"
+            ],
+            "name": "Biteable",
+            "url": "https://biteable.com/",
+            "description": "Standout videos made in a snap"
+        },
+        {
+            "tags": [
+                "Monetisation",
+                "Community"
+            ],
+            "name": "Superpeer",
+            "url": "https://superpeer.com/",
+            "description": "Host cohort-based courses, live events, or 1:1 sessions"
+        },
+        {
+            "tags": [
+                "Streaming",
+                "Events"
+            ],
+            "name": "Crowdcast",
+            "url": "https://www.crowdcast.io/",
+            "description": "Reach, engage, and grow your community with online events"
+        },
+        {
+            "tags": [
+                "Business Management",
+                "Marketing"
+            ],
+            "name": "FamePick",
+            "url": "https://famepick.com/",
+            "description": "Influencer Agency Redefined"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Monetisation"
+            ],
+            "name": "Virtually",
+            "url": "https://tryvirtually.com/",
+            "description": "Everything you need to build & scale an online school"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Distribution"
+            ],
+            "name": "Roblox Create",
+            "url": "https://www.roblox.com/create",
+            "description": "Make Anything You Can Imagine"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Distribution"
+            ],
+            "name": "Mutate",
+            "url": "https://mutate.se/",
+            "description": "Unleash your creativity. Here a game can mutate into anything"
+        },
+        {
+            "tags": [
+                "Monetisation"
+            ],
+            "name": "Buy Me A Coffee",
+            "url": "https://www.buymeacoffee.com/",
+            "description": "A simple, meaningful way to fund your creative work."
+        },
+        {
+            "tags": [
+                "Creation"
+            ],
+            "name": "Splice",
+            "url": "https://splice.com/",
+            "description": "A sample marketplace for musicians"
+        },
+        {
+            "tags": [
+                "Banking and Financial",
+                "Business Management"
+            ],
+            "name": "CreateSafe",
+            "url": "https://createsafe.io/",
+            "description": "The artist management platform for full-service or \u00e0 la carte\n                  creator resources on-demand"
+        },
+        {
+            "tags": [
+                "Banking and Financial",
+                "Financing"
+            ],
+            "name": "Friz",
+            "url": "https://usefriz.com",
+            "description": "Financial Solution for freelancers, independent workers"
+        },
+        {
+            "tags": [
+                "Monetisation",
+                "Membership"
+            ],
+            "name": "Glow",
+            "url": "https://www.glow.fm/",
+            "description": "Grow membership revenue with podcasts"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Monetisation"
+            ],
+            "name": "Thinkific",
+            "url": "https://try.thinkific.com/twdbb3rjmu6u",
+            "description": "Power your education empire"
+        },
+        {
+            "tags": [
+                "Streaming",
+                "Community"
+            ],
+            "name": "Turnip",
+            "url": "https://turnip.gg",
+            "description": "Turnip is a live game streaming and community platform"
+        },
+        {
+            "tags": [
+                "Distribution",
+                "Monetisation"
+            ],
+            "name": "TagMango",
+            "url": "https://www.tagmango.com/",
+            "description": "Platform for creators to monetise their content, time and fans"
+        },
+        {
+            "tags": [
+                "Scheduling"
+            ],
+            "name": "TidyCal",
+            "url": "https://tidycal.com",
+            "description": "The best, most affordable calendar booking solution in the\n                  world"
+        },
+        {
+            "tags": [
+                "Creation"
+            ],
+            "name": "Reduct.video",
+            "url": "https://reduct.video",
+            "description": "Edit hours of video \u2014 in minutes, not days"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Streaming"
+            ],
+            "name": "Omlet",
+            "url": "https://omlet.gg",
+            "description": "Stream, Play and Win with fellow PUBG Mobile, Fortnite,\n                  Minecraft, Roblox gamers"
+        },
+        {
+            "tags": [
+                "Community",
+                "Membership"
+            ],
+            "name": "PayRole",
+            "url": "https://payrole.io",
+            "description": "Monetize your Discord community with ease"
+        },
+        {
+            "tags": [
+                "Testing and Feedback",
+                "Community"
+            ],
+            "name": "Nolt",
+            "url": "http://nolt.io/",
+            "description": "Feedback boards your users will love."
+        },
+        {
+            "tags": [
+                "Marketing",
+                "Website and App Building"
+            ],
+            "name": "MailerLite",
+            "url": "http://www.mailerlite.com/a/s1dkuhstbo",
+            "description": "Create email marketing your way"
+        },
+        {
+            "tags": [
+                "Creation"
+            ],
+            "name": "Triller",
+            "url": "https://go.triller.co/",
+            "description": "AI-powered music video app that lets anyone to make amazing\n                  videos, effortlessly."
+        },
+        {
+            "tags": [
+                "Creation",
+                "Monetisation"
+            ],
+            "name": "Playbook",
+            "url": "https://playbookapp.io/for-creators",
+            "description": "Playbook empowers fitness creators to build and grow their own\n                  subscription business."
+        },
+        {
+            "tags": [
+                "Creation",
+                "Monetisation"
+            ],
+            "name": "Float",
+            "url": "https://float.so",
+            "description": "Course builder for Notion"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Analytics"
+            ],
+            "name": "Podbean",
+            "url": "https://www.podbean.com/",
+            "description": "Podcast hosting, publication, monetisation and analytics\n                  platform"
+        },
+        {
+            "tags": [
+                "Community"
+            ],
+            "name": "Circle",
+            "url": "https://circle.so/",
+            "description": "The modern community platform for creators"
+        },
+        {
+            "tags": [
+                "Creation"
+            ],
+            "name": "ArtGrid",
+            "url": "https://artgrid.io/",
+            "description": "Stock video licensing platform created for creators"
+        },
+        {
+            "tags": [
+                "Monetisation",
+                "Partnership"
+            ],
+            "name": "PopularPays",
+            "url": "https://popularpays.com/creator/",
+            "description": "Influencer Marketing & Content Creation at Scale"
+        },
+        {
+            "tags": [
+                "Banking and Financial",
+                "Analytics"
+            ],
+            "name": "Creatorcash",
+            "url": "https://creator.cash/",
+            "description": "Provides insights on creator earnings and revenue"
+        },
+        {
+            "tags": [
+                "Monetisation",
+                "Distribution"
+            ],
+            "name": "Classcamp",
+            "url": "https://classcamp.com",
+            "description": "Classcamp is the easiest way to create an online course"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Analytics"
+            ],
+            "name": "Podcastle",
+            "url": "https://podcastle.ai",
+            "description": "Create, edit and enhance audio, conduct online interviews."
+        },
+        {
+            "tags": [
+                "Website and App Building",
+                "Membership"
+            ],
+            "name": "Terrace",
+            "url": "https://terrace.so",
+            "description": "Build your next website with just Notion"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Design"
+            ],
+            "name": "Stage",
+            "url": "https://stage.so/",
+            "description": "The easiest way to design mobile applications"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Design"
+            ],
+            "name": "Figma",
+            "url": "https://www.figma.com/",
+            "description": "A design platform for teams who build products together."
+        },
+        {
+            "tags": [
+                "Creation",
+                "Streaming"
+            ],
+            "name": "Eloelo",
+            "url": "https://play.google.com/store/apps/details?id=com.eloelo",
+            "description": "Host live social games for your fans and followers"
+        },
+        {
+            "tags": [
+                "Monetisation"
+            ],
+            "name": "RedCircle",
+            "url": "https://www.redcircle.com/",
+            "description": "The platform for podcasters and brands"
+        },
+        {
+            "tags": [
+                "Marketing",
+                "Email"
+            ],
+            "name": "Campaign Monitor",
+            "url": "https://www.campaignmonitor.com/",
+            "description": "Email marketing software with drag-and-drop simplicity"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Monetisation"
+            ],
+            "name": "Ruzuku",
+            "url": "https://www.ruzuku.com/",
+            "description": "Online learning for self-improvement"
+        },
+        {
+            "tags": [
+                "E-Commerce",
+                "Monetisation"
+            ],
+            "name": "Printful",
+            "url": "https://www.printful.com/",
+            "description": "Create and sell custom products online"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Analytics"
+            ],
+            "name": "Blubrry",
+            "url": "https://blubrry.com",
+            "description": "Podcast hosting, analytics and website"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Analytics"
+            ],
+            "name": "SquadCast",
+            "url": "https://squadcast.fm/",
+            "description": "Remote interviews for professional podcasters"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Distribution"
+            ],
+            "name": "YouTube",
+            "url": "https://youtube.com/",
+            "description": "Video sharing service where users can watch, like, share,\n                  comment and upload their own videos"
+        },
+        {
+            "tags": [
+                "Creation"
+            ],
+            "name": "Landr",
+            "url": "https://www.landr.com/",
+            "description": "Professional audio mastering"
+        },
+        {
+            "tags": [
+                "Growth",
+                "Membership"
+            ],
+            "name": "RevSync",
+            "url": "https://www.revsync.io",
+            "description": "Convert your Twitter followers to newsletter subscribers"
+        },
+        {
+            "tags": [
+                "Events",
+                "Monetisation"
+            ],
+            "name": "Moment House",
+            "url": "https://www.momenthouse.com/for-artists",
+            "description": "Livestream Events, Elevated"
+        },
+        {
+            "tags": [
+                "Creation"
+            ],
+            "name": "Type Studio",
+            "url": "https://typestudio.co/",
+            "description": "Online text-based video editor"
+        },
+        {
+            "tags": [
+                "Monetisation",
+                "Financing"
+            ],
+            "name": "Royal",
+            "url": "https://royal.io",
+            "description": "Invest in artists. Share their success."
+        },
+        {
+            "tags": [
+                "Creation"
+            ],
+            "name": "ArtList",
+            "url": "https://artlist.io/",
+            "description": "Music licensing platform created for creators"
+        },
+        {
+            "tags": [
+                "Monetisation",
+                "Distribution"
+            ],
+            "name": "Koji",
+            "url": "https://withkoji.com/fankit",
+            "description": "Develop and deploy web apps at a ludicrous speed"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Monetisation"
+            ],
+            "name": "Letterdrop",
+            "url": "https://letterdrop.co/",
+            "description": "Content marketing that converts"
+        },
+        {
+            "tags": [
+                "Streaming",
+                "Monetisation"
+            ],
+            "name": "Stream Elements",
+            "url": "https://streamelements.com/",
+            "description": "An all-in-one toolkit to help streamers grow"
+        },
+        {
+            "tags": [
+                "Website and App Building"
+            ],
+            "name": "Bubble",
+            "url": "https://bubble.io/",
+            "description": "No-code web application development tool"
+        },
+        {
+            "tags": [
+                "Community",
+                "Monetisation"
+            ],
+            "name": "Cline",
+            "url": "https://cline.app",
+            "description": "Bring your live sessions, community, and content into one\n                  place"
+        },
+        {
+            "tags": [
+                "Community",
+                "Monetisation"
+            ],
+            "name": "Bunches",
+            "url": "https://www.bunches.app/",
+            "description": "Bunches lets anyone start a free or paid group chat about\n                  (almost) anything"
+        },
+        {
+            "tags": [
+                "Website and App Building"
+            ],
+            "name": "Super",
+            "url": "https://super.so/",
+            "description": "Build simple websites with nothing but Notion"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Analytics"
+            ],
+            "name": "SoundTrap",
+            "url": "https://soundtrap.com",
+            "description": "A podcast studio in the cloud"
+        },
+        {
+            "tags": [
+                "Website and App Building",
+                "Creation"
+            ],
+            "name": "Adalo",
+            "url": "https://adalo.com/",
+            "description": "Turn your idea into reality without coding"
+        },
+        {
+            "tags": [
+                "Analytics"
+            ],
+            "name": "Podcast Ping",
+            "url": "https://podcastping.com/",
+            "description": "Uptime monitoring for podcasts"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Distribution"
+            ],
+            "name": "SoundCloud",
+            "url": "https://soundcloud.com/",
+            "description": "A social sound platform where anyone can create and share\n                  sounds"
+        },
+        {
+            "tags": [
+                "Business Management",
+                "Creation"
+            ],
+            "name": "Kookloo",
+            "url": "https://www.kookloo.com/",
+            "description": "Video sharing and discovery platform"
+        },
+        {
+            "tags": [
+                "Creation"
+            ],
+            "name": "Unfold",
+            "url": "https://unfold.com/",
+            "description": "Toolkit for storytellers"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Distribution"
+            ],
+            "name": "Snapchat",
+            "url": "https://snap.com/",
+            "description": "Express yourself - Get inspired and share your creativity"
+        },
+        {
+            "tags": [
+                "Community",
+                "Streaming"
+            ],
+            "name": "Reach Live",
+            "url": "https://reach.live/",
+            "description": "Host live & on-demand audio and video talks"
+        },
+        {
+            "tags": [
+                "Community",
+                "Monetisation"
+            ],
+            "name": "Disciple",
+            "url": "https://www.disciplemedia.com/",
+            "description": "Your own community platform"
+        },
+        {
+            "tags": [
+                "Scheduling"
+            ],
+            "name": "SidekickAI",
+            "url": "https://sidekickai.com",
+            "description": "Sidekick Books Meetings For You"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Analytics"
+            ],
+            "name": "Zencastr",
+            "url": "https://zencastr.com",
+            "description": "The easiest way to record a podcast remotely"
+        },
+        {
+            "tags": [
+                "Website and App Building",
+                "Link-in-bio"
+            ],
+            "name": "Jemi",
+            "url": "https://jemi.app/",
+            "description": "Build your creator website"
+        },
+        {
+            "tags": [
+                "Distribution",
+                "Monetisation"
+            ],
+            "name": "Udemy",
+            "url": "https://www.udemy.com/",
+            "description": "Marketplace for online courses"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Analytics"
+            ],
+            "name": "Castos",
+            "url": "https://castos.com",
+            "description": "Beautifully simple podcast hosting and analytics"
+        },
+        {
+            "tags": [
+                "Marketing",
+                "Email"
+            ],
+            "name": "Email Octopus",
+            "url": "https://emailoctopus.com",
+            "description": "Email marketing made easy"
+        },
+        {
+            "tags": [
+                "Marketing",
+                "Email"
+            ],
+            "name": "Mailmodo",
+            "url": "https://www.mailmodo.com",
+            "description": "Get 3x more leads with interactive AMP emails"
+        },
+        {
+            "tags": [
+                "Monetisation",
+                "Analytics"
+            ],
+            "name": "Sounder",
+            "url": "https://sounder.fm/",
+            "description": "The podcast platform for creators focused on growth and\n                  discovery"
+        },
+        {
+            "tags": [
+                "Monetisation",
+                "Distribution"
+            ],
+            "name": "LinkTree",
+            "url": "https://linktr.ee/",
+            "description": "The Only Link You'll Ever Need"
+        },
+        {
+            "tags": [
+                "Automation"
+            ],
+            "name": "Zapier",
+            "url": "https://zapier.com",
+            "description": "Easy automation for everyone"
+        },
+        {
+            "tags": [
+                "Monetisation",
+                "Streaming"
+            ],
+            "name": "inSTREAMLY",
+            "url": "https://instreamly.com/",
+            "description": "Get the best sponsors for your stream"
+        },
+        {
+            "tags": [
+                "Creation"
+            ],
+            "name": "VSCO",
+            "url": "https://vsco.co/",
+            "description": "Creative tools, inspiration, and a place for you to be you."
+        },
+        {
+            "tags": [
+                "Creation",
+                "Scheduling"
+            ],
+            "name": "Chime Social",
+            "url": "https://chime.so/",
+            "description": "Grow your Twitter following"
+        },
+        {
+            "tags": [
+                "Scheduling"
+            ],
+            "name": "CalendarHero",
+            "url": "https://calendarhero.com/",
+            "description": "Schedule every meeting faster."
+        },
+        {
+            "tags": [
+                "Analytics",
+                "Growth"
+            ],
+            "name": "JellySmack",
+            "url": "https://jellysmack.com",
+            "description": "JellySmack unlocks each creator's full potential"
+        },
+        {
+            "tags": [
+                "Creation"
+            ],
+            "name": "Medium",
+            "url": "https://medium.com/",
+            "description": "An open platform where expert and undiscovered voices can\n                  share their writing on any topic"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Streaming"
+            ],
+            "name": "StreamLabs",
+            "url": "https://streamlabs.com/",
+            "description": "All-in-one live streaming software"
+        },
+        {
+            "tags": [
+                "Streaming",
+                "Creation"
+            ],
+            "name": "Stream Club",
+            "url": "https://www.stream.club/",
+            "description": "Start streaming better"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Streaming"
+            ],
+            "name": "Allstar",
+            "url": "https://allstar.gg",
+            "description": "Play. Share. Star. Free Cloud-based gaming clip capture"
+        },
+        {
+            "tags": [
+                "Website and App Building"
+            ],
+            "name": "Graphite",
+            "url": "https://graphite.space/",
+            "description": "Make web design feel like home"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Monetisation"
+            ],
+            "name": "Bulletin",
+            "url": "https://www.bulletin.com/",
+            "description": "Publishing, subscription and website tools for newsletter\n                  creators"
+        },
+        {
+            "tags": [
+                "E-Commerce",
+                "Monetisation"
+            ],
+            "name": "Big Cartel",
+            "url": "https://www.bigcartel.com/",
+            "description": "Easy online stores for artists and makers"
+        },
+        {
+            "tags": [
+                "Marketing",
+                "Monetisation"
+            ],
+            "name": "#Paid",
+            "url": "https://hashtagpaid.com/",
+            "description": "Creator marketing platform"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Monetisation"
+            ],
+            "name": "Questbook",
+            "url": "https://questbook.app/teach",
+            "description": "A Decentralized University, where learning is always free."
+        },
+        {
+            "tags": [
+                "Monetisation",
+                "Community"
+            ],
+            "name": "LaunchPass",
+            "url": "https://launchpass.com/",
+            "description": "Launch a paid chat community in minutes"
+        },
+        {
+            "tags": [
+                "Distribution",
+                "Monetisation"
+            ],
+            "name": "Audius",
+            "url": "https://audius.org/",
+            "description": "Decentralized and censorship-resistant audio streaming,\n                  hosting and distribution platform"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Monetisation"
+            ],
+            "name": "Supercast",
+            "url": "https://www.supercast.com/",
+            "description": "Add a paid membership to your podcast"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Monetisation"
+            ],
+            "name": "Revue",
+            "url": "https://www.getrevue.co/",
+            "description": "Build a loyal audience"
+        },
+        {
+            "tags": [
+                "Monetisation"
+            ],
+            "name": "Islands",
+            "url": "http://islands.xyz",
+            "description": "Start monetizing"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Monetisation"
+            ],
+            "name": "Substack",
+            "url": "https://substack.com/",
+            "description": "Start a paid newsletter"
+        },
+        {
+            "tags": [
+                "Community",
+                "Monetisation"
+            ],
+            "name": "threedots",
+            "url": "https://threedots.app",
+            "description": "Create and run financial and investment communities"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Design"
+            ],
+            "name": "Storytale",
+            "url": "https://storytale.io/",
+            "description": "High-class illustrations for web and mobile projects"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Marketing"
+            ],
+            "name": "Black Magic",
+            "url": "https://blackmagic.so",
+            "description": "Twitter growth tool"
+        },
+        {
+            "tags": [
+                "Banking and Financial"
+            ],
+            "name": "Lili",
+            "url": "https://lili.co",
+            "description": "Banking designed for freelancers"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Distribution"
+            ],
+            "name": "Instagram",
+            "url": "https://instagram.com",
+            "description": "Photo and video sharing social networking service"
+        },
+        {
+            "tags": [
+                "Creation"
+            ],
+            "name": "Castup",
+            "url": "https://www.usecastup.com/",
+            "description": "Professional podcast editing from 40\u00a2 per published minute"
+        },
+        {
+            "tags": [
+                "Community",
+                "Creation"
+            ],
+            "name": "Fleeks",
+            "url": "www.fleeks.co.in",
+            "description": "One platform to give your fans everything"
+        },
+        {
+            "tags": [
+                "Creation"
+            ],
+            "name": "Runway ML",
+            "url": "https://runwayml.com/",
+            "description": "Next gen creative toolkit powered by machine learning"
+        },
+        {
+            "tags": [
+                "Community",
+                "Monetisation"
+            ],
+            "name": "Fanhouse",
+            "url": "https://fanhouse.app/",
+            "description": "Connect with a community who wants to see the real you"
+        },
+        {
+            "tags": [
+                "Monetisation",
+                "Partnership"
+            ],
+            "name": "TRIBE",
+            "url": "https://www.tribegroup.co/influencers",
+            "description": "Influencer Marketing Platform for Brands & Agencies"
+        },
+        {
+            "tags": [
+                "Creation"
+            ],
+            "name": "Bcast",
+            "url": "https://www.bcast.fm/",
+            "description": "Podcast Hosting For High Growth Businesses"
+        },
+        {
+            "tags": [
+                "Banking and Financial"
+            ],
+            "name": "Oxygen",
+            "url": "https://oxygen.us",
+            "description": "Providing business banking to digital natives, creators and\n                  entrepreneurs"
+        },
+        {
+            "tags": [
+                "E-Commerce"
+            ],
+            "name": "Supliful",
+            "url": "https://supliful.com",
+            "description": "Start your own supplement product line"
+        },
+        {
+            "tags": [
+                "Community"
+            ],
+            "name": "Geneva",
+            "url": "https://www.geneva.com/",
+            "description": "This is where your group chats"
+        },
+        {
+            "tags": [
+                "Monetisation",
+                "Website and App Building"
+            ],
+            "name": "Beacons",
+            "url": "https://beacons.ai/",
+            "description": "Link-in-bio website builder for creators"
+        },
+        {
+            "tags": [
+                "Creation"
+            ],
+            "name": "Lightricks",
+            "url": "https://www.lightricks.com/",
+            "description": "Lightricks integrates advanced technologies from computer\n                  vision, computer graphics, and image processing into mobile\n                  products"
+        },
+        {
+            "tags": [
+                "Monetisation"
+            ],
+            "name": "Ko-fi",
+            "url": "https://ko-fi.com/",
+            "description": "Make an Income Doing What You Love"
+        },
+        {
+            "tags": [
+                "Website and App Building"
+            ],
+            "name": "Universe",
+            "url": "https://onuniverse.com/",
+            "description": "A magical new way to build websites"
+        },
+        {
+            "tags": [
+                "Stock Content Library"
+            ],
+            "name": "Noun Project",
+            "url": "https://thenounproject.com",
+            "description": "The Most Comprehensive Icon Collection in the World"
+        },
+        {
+            "tags": [
+                "Creation"
+            ],
+            "name": "Tweethunter",
+            "url": "http://app.tweethunter.io/?via=adil",
+            "description": "Helping you find the best tweets on any topic to stay inspired"
+        },
+        {
+            "tags": [
+                "Growth",
+                "Analytics"
+            ],
+            "name": "Katlinks",
+            "url": "https://katlinks.io",
+            "description": "SEO Tool to help you rank higher and get more users"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Distribution"
+            ],
+            "name": "Superset",
+            "url": "https://www.supersetapp.com/",
+            "description": "Sell online workout programs and memberships within your own\n                  standalone digital experience"
+        },
+        {
+            "tags": [
+                "Streaming"
+            ],
+            "name": "Xsplit",
+            "url": "https://www.xsplit.com/",
+            "description": "Live-streaming and recording platform"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Distribution"
+            ],
+            "name": "gg.tv",
+            "url": "http://ggtv.co",
+            "description": "Browse & Create Gaming Clips and Highlights"
+        },
+        {
+            "tags": [
+                "Monetisation"
+            ],
+            "name": "Podcorn",
+            "url": "https://podcorn.com/",
+            "description": "The leading podcast influencer marketplace"
+        },
+        {
+            "tags": [
+                "Community",
+                "Freelancer"
+            ],
+            "name": "Contra",
+            "url": "https://contra.com",
+            "description": "Create and monetize your new project-based, collaborative\n                  professional identity"
+        },
+        {
+            "tags": [
+                "Distribution",
+                "Monetisation"
+            ],
+            "name": "Caffeine",
+            "url": "https://www.caffeine.tv/",
+            "description": "Social broadcasting company focused on the creation and\n                  distribution of live, interactive content"
+        },
+        {
+            "tags": [
+                "Membership",
+                "Monetisation"
+            ],
+            "name": "Cereal",
+            "url": "https://trycereal.com",
+            "description": "Create premium membership sites for all your content"
+        },
+        {
+            "tags": [
+                "Community",
+                "Monetisation"
+            ],
+            "name": "Oooh",
+            "url": "http://www.oooh.tv",
+            "description": "In Beta"
+        },
+        {
+            "tags": [
+                "Monetisation"
+            ],
+            "name": "CreatorStack",
+            "url": "https://creatorstack.co/",
+            "description": "Turn your passion into a profitable venture in the cloud"
+        },
+        {
+            "tags": [
+                "Website and App Building"
+            ],
+            "name": "Carrd",
+            "url": "https://carrd.co",
+            "description": "Build one-page responsive sites for anything"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Distribution"
+            ],
+            "name": "Maven",
+            "url": "https://maven.com",
+            "description": "Maven is a new platform for cohort-based courses"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Marketing"
+            ],
+            "name": "Descript",
+            "url": "https://www.descript.com/",
+            "description": "Text-based audio editor and automated transcription"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Monetisation"
+            ],
+            "name": "Learn Worlds",
+            "url": "https://www.learnworlds.com",
+            "description": "Create and sell online courses from your own website"
+        },
+        {
+            "tags": [
+                "Banking and Financial"
+            ],
+            "name": "Karat",
+            "url": "https://www.trykarat.com/",
+            "description": "Karat is the Black Card for Creators."
+        },
+        {
+            "tags": [
+                "Business Management",
+                "Monetisation"
+            ],
+            "name": "CloutJam",
+            "url": "https://www.cloutjam.com/",
+            "description": "Tools, guidance, and community to help manage and grow your\n                  business as a creator"
+        },
+        {
+            "tags": [
+                "Banking and Financial"
+            ],
+            "name": "Stir",
+            "url": "https://usestir.com/",
+            "description": "The financial studio for creators"
+        },
+        {
+            "tags": [
+                "Website and App Building"
+            ],
+            "name": "Typedream",
+            "url": "https://typedream.com/",
+            "description": "Typedream helps you build a beautiful website using a simple\n                  interface"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Monetisation"
+            ],
+            "name": "Bitclass",
+            "url": "https://bitclass.live/teach-on-bitclass",
+            "description": "We Help Build Highly Successful Online Teaching Businesses"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Distribution"
+            ],
+            "name": "Twitter",
+            "url": "http://twitter.com/",
+            "description": "Social platform where users send and read tweets"
+        },
+        {
+            "tags": [
+                "Creation"
+            ],
+            "name": "Mojo App",
+            "url": "https://mojo.video/",
+            "description": "Create stunning animated video stories"
+        },
+        {
+            "tags": [
+                "Monetisation",
+                "Membership"
+            ],
+            "name": "Patreon",
+            "url": "http://www.patreon.com/",
+            "description": "Let your most passionate fans support your creative work via\n                  monthly membership"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Distribution"
+            ],
+            "name": "TikTok/Bytedance",
+            "url": "https://tiktok.com/en/",
+            "description": "A short-video sharing app and social network platform"
+        },
+        {
+            "tags": [
+                "Community"
+            ],
+            "name": "Commsor",
+            "url": "https://www.commsor.com/",
+            "description": "The community operating system for your entire company"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Streaming"
+            ],
+            "name": "Twitch",
+            "url": "https://twitch.tv/",
+            "description": "A video platform where gamers can broadcast, watch, and talk\n                  about video games."
+        },
+        {
+            "tags": [
+                "Streaming"
+            ],
+            "name": "Stage Ten",
+            "url": "https://stageten.tv/",
+            "description": "Interactive content and commerce platform for creating,\n                  distributing and discovering live video streams"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Design"
+            ],
+            "name": "Craftwork",
+            "url": "https://craftwork.design/",
+            "description": "Digital market with fully customizable design products"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Design"
+            ],
+            "name": "Invision",
+            "url": "https://www.invisionapp.com/",
+            "description": "Design Better. Faster. Together."
+        },
+        {
+            "tags": [
+                "Creation",
+                "Distribution"
+            ],
+            "name": "Trell",
+            "url": "https://trell.co",
+            "description": "Largest Lifestyle Social Commerce platform in Indian languages"
+        },
+        {
+            "tags": [
+                "Growth",
+                "Monetisation"
+            ],
+            "name": "Paved",
+            "url": "https://www.paved.com",
+            "description": "All-in-one platform for newsletter sponsorships"
+        },
+        {
+            "tags": [
+                "Monetisation",
+                "Streaming"
+            ],
+            "name": "Tipeee",
+            "url": "https://en.tipeee.com/",
+            "description": "Collect tips while you're streaming"
+        },
+        {
+            "tags": [
+                "Creation"
+            ],
+            "name": "Kapwing",
+            "url": "https://kapwing.com/",
+            "description": "Online editor for modern videos, GIFs, and images"
+        },
+        {
+            "tags": [
+                "Monetisation",
+                "Analytics"
+            ],
+            "name": "Pico",
+            "url": "https://trypico.com/",
+            "description": "The operating system for creator businesses"
+        },
+        {
+            "tags": [
+                "Community",
+                "Monetisation"
+            ],
+            "name": "Luma",
+            "url": "https://lu.ma/",
+            "description": "Foster meaningful relationships with events, newsletters and\n                  community analytics"
+        },
+        {
+            "tags": [
+                "Creation"
+            ],
+            "name": "Instasize",
+            "url": "https://instasize.com/",
+            "description": "Photo editor and video editing toolkit for creatives"
+        },
+        {
+            "tags": [
+                "Community",
+                "Analytics"
+            ],
+            "name": "Threado",
+            "url": "https://threado.com/",
+            "description": "The modern way to build an engaged brand community"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Monetisation"
+            ],
+            "name": "Kiwify",
+            "url": "https://kiwify.com.br/",
+            "description": "Venda seu curso online"
+        },
+        {
+            "tags": [
+                "Analytics",
+                "Growth"
+            ],
+            "name": "TubeBuddy",
+            "url": "https://www.tubebuddy.com/",
+            "description": "Grow Your YouTube Channel Faster!"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Membership"
+            ],
+            "name": "Flowjin",
+            "url": "https://flowjin.com",
+            "description": "Monetize & engage your audience with audio content"
+        },
+        {
+            "tags": [
+                "Monetisation",
+                "Sales"
+            ],
+            "name": "Zora",
+            "url": "https://zora.co/",
+            "description": "The decentralized protocol for NFT marketplaces"
+        },
+        {
+            "tags": [
+                "Analytics",
+                "Automation"
+            ],
+            "name": "Campfire",
+            "url": "https://campfire.so",
+            "description": "Build Incredible Communities"
+        },
+        {
+            "tags": [
+                "Website and App Building",
+                "Analytics"
+            ],
+            "name": "Spore",
+            "url": "https://spore.build",
+            "description": "Where podcasters build their business"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Analytics"
+            ],
+            "name": "Captivate",
+            "url": "https://www.captivate.fm/",
+            "description": "Everything you need to start, manage & monetize your\n                  podcast"
+        },
+        {
+            "tags": [
+                "Creation"
+            ],
+            "name": "Athenascope",
+            "url": "https://athenascope.com",
+            "description": "Effortless Gaming Highlights"
+        },
+        {
+            "tags": [
+                "Scheduling",
+                "Social Media Management"
+            ],
+            "name": "Buffer",
+            "url": "https://buffer.com",
+            "description": "All-you-need social media toolkit for creators and business"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Scheduling"
+            ],
+            "name": "Chirr",
+            "url": "https://getchirrapp.com/",
+            "description": "The best Twitter thread maker app"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Scheduling"
+            ],
+            "name": "Hypefury",
+            "url": "https://hypefury.com",
+            "description": "Grow & monetize your Twitter audience like never before"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Marketing"
+            ],
+            "name": "We Edit Podcasts",
+            "url": "https://www.weeditpodcasts.com/",
+            "description": "Podcast editing, transcription, show notes and marketing\n                  service"
+        },
+        {
+            "tags": [
+                "Website and App Building",
+                "Link-in-bio"
+            ],
+            "name": "Protonn",
+            "url": "https://protonn.com",
+            "description": "All-in-one solution to empower independent professionals"
+        },
+        {
+            "tags": [
+                "Link-in-bio"
+            ],
+            "name": "Solo.to",
+            "url": "https://solo.to",
+            "description": "One bio link for everything"
+        },
+        {
+            "tags": [
+                "Creation",
+                "E-Commerce"
+            ],
+            "name": "Bitski",
+            "url": "https://bitski.com",
+            "description": "Powering the commerce layer of the metaverse"
+        },
+        {
+            "tags": [
+                "Monetisation",
+                "E-Commerce"
+            ],
+            "name": "Gumroad",
+            "url": "https://gumroad.com/",
+            "description": "Sell Digital Products & Memberships"
+        },
+        {
+            "tags": [
+                "Website and App Building",
+                "Monetisation"
+            ],
+            "name": "Wix",
+            "url": "https://wix.com",
+            "description": "No-code website building and e-commerce platform"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Streaming"
+            ],
+            "name": "Lightstream",
+            "url": "https://lightstream.gg/",
+            "description": "A live streaming production studio in your browser"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Distribution"
+            ],
+            "name": "OnlyFans",
+            "url": "https://onlyfans.com/",
+            "description": "OnlyFans is a subscription-based social media and\n                  content-sharing platform."
+        },
+        {
+            "tags": [
+                "Website and App Building"
+            ],
+            "name": "Glide",
+            "url": "https://www.glideapps.com/",
+            "description": "Build an app from a Google Sheet in five minutes, for free"
+        },
+        {
+            "tags": [
+                "Creation"
+            ],
+            "name": "Pinata Farms",
+            "url": "https://pinatafarm.com/download",
+            "description": "The fastest video meme maker"
+        },
+        {
+            "tags": [
+                "Distribution"
+            ],
+            "name": "Castbox",
+            "url": "https://castbox.fm/",
+            "description": "An easy to use podcast, radio, & audiobook app"
+        },
+        {
+            "tags": [
+                "Community",
+                "Monetisation"
+            ],
+            "name": "Honeycommb",
+            "url": "https://www.honeycommb.com/",
+            "description": "The world's premier community platform"
+        },
+        {
+            "tags": [
+                "Scheduling"
+            ],
+            "name": "Calendly",
+            "url": "https://calendly.grsm.io/u7t35g814kaa",
+            "description": "Schedule meetings faster"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Analytics"
+            ],
+            "name": "Buzzsprout",
+            "url": "https://www.buzzsprout.com/",
+            "description": "Plan, record and launch your podcast"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Distribution"
+            ],
+            "name": "PocketFM Studio",
+            "url": "https://studio.pocketfm.in",
+            "description": "Share Your Stories and Voice With the World"
+        },
+        {
+            "tags": [
+                "Website and App Building",
+                "Monetisation"
+            ],
+            "name": "Weebly",
+            "url": "http://weebly.com",
+            "description": "Platform to easily create a website, blog or online store"
+        },
+        {
+            "tags": [
+                "E-Commerce",
+                "Monetisation"
+            ],
+            "name": "Nexus",
+            "url": "https://www.nexus.gg/",
+            "description": "Build your very own game store"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Analytics"
+            ],
+            "name": "Fireside",
+            "url": "https://fireside.fm",
+            "description": "Powerful podcast hosting & analytics"
+        },
+        {
+            "tags": [
+                "Distribution",
+                "Monetisation"
+            ],
+            "name": "Laylo",
+            "url": "https://laylo.com/",
+            "description": "Create the perfect landing page for your upcoming merch,\n                  content, and events."
+        },
+        {
+            "tags": [
+                "Streaming"
+            ],
+            "name": "Restream",
+            "url": "https://restream.io/",
+            "description": "Run professional live streams from your browser"
+        },
+        {
+            "tags": [
+                "Marketing",
+                "Sales"
+            ],
+            "name": "ActiveCampaign",
+            "url": "https://www.activecampaign.com",
+            "description": "#1 Customer Experience Automation Platform"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Design"
+            ],
+            "name": "Air",
+            "url": "https://air.inc",
+            "description": "Centralize your team's content in a workspace that's\n                  organized, versioned, and easy to share"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Scheduling"
+            ],
+            "name": "Later",
+            "url": "https://later.com/",
+            "description": "The world\u2019s favorite Instagram marketing platform (and much\n                  more)"
+        },
+        {
+            "tags": [
+                "Community",
+                "Monetisation"
+            ],
+            "name": "MightyNetworks",
+            "url": "https://www.mightynetworks.com/",
+            "description": "Bring your community, courses, memberships, and events\n                  together in one place under your brand"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Marketing"
+            ],
+            "name": "SEOCopy.ai",
+            "url": "https://SEOCopy.ai",
+            "description": "Generate SEO blog posts in minutes with AI"
+        },
+        {
+            "tags": [
+                "E-Commerce",
+                "Distribution"
+            ],
+            "name": "Popshop Live",
+            "url": "https://popshop.live/",
+            "description": "Shop, Sell, Stream!"
+        },
+        {
+            "tags": [
+                "Creation"
+            ],
+            "name": "BeatStars",
+            "url": "https://www.beatstars.com/",
+            "description": "Social music marketplace & distribution company"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Analytics"
+            ],
+            "name": "Spreaker",
+            "url": "https://www.spreaker.com/",
+            "description": "Everything you need to podcast"
+        },
+        {
+            "tags": [
+                "Website and App Building",
+                "Link-in-bio"
+            ],
+            "name": "Sprinkles",
+            "url": "https://sprinkles.tech/",
+            "description": "Build a microsite, engage with your audience, monetize\n                  content, and own your data"
+        },
+        {
+            "tags": [
+                "Banking and Financial"
+            ],
+            "name": "Lance",
+            "url": "https://lance.app",
+            "description": "Revolutionizing Freelance Banking"
+        },
+        {
+            "tags": [
+                "Link-in-bio",
+                "Distribution"
+            ],
+            "name": "Campsite.bio",
+            "url": "https://campsite.bio",
+            "description": "Your social bio link outfitter"
+        },
+        {
+            "tags": [
+                "Creation"
+            ],
+            "name": "Disco",
+            "url": "https://disco.co",
+            "description": "Where creators build LIVE learning experiences"
+        },
+        {
+            "tags": [
+                "Community",
+                "Link-in-bio"
+            ],
+            "name": "Norby",
+            "url": "https://norby.live",
+            "description": "Your link in bio, SMS, newsletters and events, all in one\n                  place"
+        },
+        {
+            "tags": [
+                "E-Commerce",
+                "Monetisation"
+            ],
+            "name": "Sellfy",
+            "url": "https://get.sellfy.com/creatorbase",
+            "description": "E-commerce app for selling digital products trusted by\n                  300,000+ creators."
+        },
+        {
+            "tags": [
+                "Community",
+                "Analytics"
+            ],
+            "name": "Orbit",
+            "url": "https://orbit.love/",
+            "description": "Mission control for your community"
+        },
+        {
+            "tags": [
+                "Creation"
+            ],
+            "name": "Alitu",
+            "url": "https://alitu.com/",
+            "description": "Podcast editing and recording platform"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Distribution"
+            ],
+            "name": "Steam",
+            "url": "https://store.steampowered.com",
+            "description": "Enabling gamers and game creators to publish, connect, play,\n                  create and share content"
+        },
+        {
+            "tags": [
+                "Analytics"
+            ],
+            "name": "Baremetrics",
+            "url": "https://baremetrics.com",
+            "description": "Subscription Analytics & Insights"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Analytics"
+            ],
+            "name": "Transistor",
+            "url": "https://transistor.fm/?via=adil",
+            "description": "Podcast hosting and analytics platform"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Analytics"
+            ],
+            "name": "Riverside",
+            "url": "https://riverside.fm/",
+            "description": "Record a radio-like podcast and let your listeners call in"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Scheduling"
+            ],
+            "name": "Planoly",
+            "url": "https://planoly.com",
+            "description": "Simplifying Social Marketing"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Analytics"
+            ],
+            "name": "Simplecast",
+            "url": "https://simplecast.com",
+            "description": "The modern podcast management and metrics platform"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Design"
+            ],
+            "name": "Sketch",
+            "url": "https://www.sketch.com/",
+            "description": "A tool for digital design, empowering designers to share and\n                  collaborate on their designs"
+        },
+        {
+            "tags": [
+                "Design",
+                "Marketing"
+            ],
+            "name": "Canva",
+            "url": "https://canva.com",
+            "description": "Online graphic design and publishing tool"
+        },
+        {
+            "tags": [
+                "Link-in-bio",
+                "E-Commerce"
+            ],
+            "name": "Expy",
+            "url": "https://expy.bio/",
+            "description": "A creator-first link-in-bio website builder"
+        },
+        {
+            "tags": [
+                "Website and App Building",
+                "Automation"
+            ],
+            "name": "Ycode",
+            "url": "https://ycode.com",
+            "description": "No code web app builder: Create advanced web apps"
+        },
+        {
+            "tags": [
+                "Creation",
+                "Distribution"
+            ],
+            "name": "Kajabi",
+            "url": "https://kajabi.com/",
+            "description": "The #1 Platform to Grow Your Knowledge Business"
+        },
+        {
+            "tags": [
+                "E-Commerce",
+                "Monetisation"
+            ],
+            "name": "Printify",
+            "url": "https://printify.com/",
+            "description": "Create and sell custom products"
+        },
+        {
+            "tags": [
+                "Community"
+            ],
+            "name": "Tribe",
+            "url": "https://tribe.so/",
+            "description": "A customizable community platform for businesses"
+        },
+        {
+            "tags": [
+                "Community",
+                "Distribution"
+            ],
+            "name": "Panion",
+            "url": "https://panion.com/",
+            "description": "Panion is an all-in-one community management platform"
+        }
+    ]
+}

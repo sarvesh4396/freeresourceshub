@@ -1,14 +1,14 @@
-var sources = require("./../assets/data/sources.json");
-var zero = require("./../assets/data/0.json");
-var one = require("./../assets/data/1.json");
-var two = require("./../assets/data/2.json");
+var sources = require('./../assets/data/sources.json');
+var zero = require('./../assets/data/0.json').submittedNewData;
+var one = require('./../assets/data/1.json').data;
+var two = require('./../assets/data/2.json').data;
 
 function set_source_id() {
   Object.keys(ALL_SOURCES).forEach((key) => {
     const source = ALL_SOURCES[key];
     // Setting source id for data
     source.forEach(function (res) {
-      res["source"] = key.toString();
+      res['source'] = key.toString();
     });
   });
 }
@@ -36,14 +36,14 @@ function get_plain_sources() {
 // Vars
 
 // Sources
-const ALL_SOURCES = { 0:zero, 1: one ,2:two};
+const ALL_SOURCES = { 0: zero, 1: one, 2: two };
 
 export const SITE_VARS = {
-  name: "FreeResources Hub",
-  email: "heysarvesh@pm.me",
-  github: "https://github.com/sarvesh4396/freeresourceshub",
-  github_issue: "https://github.com/sarvesh4396/freeresourceshub/issues",
-  twitter: "https://twitter.com/sarvesh4396",
+  name: 'FreeResources Hub',
+  email: 'heysarvesh@pm.me',
+  github: 'https://github.com/sarvesh4396/freeresourceshub',
+  // github_issue: "https://github.com/sarvesh4396/freeresourceshub/issues",
+  twitter: 'https://twitter.com/sarvesh4396',
 };
 
 set_source_id();
