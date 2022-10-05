@@ -22,4 +22,10 @@ Now run mentioned below command **in CLI**:-
 npm start 
 ```
 
+Run the server because if you don't run this command the user can't add a new resource :-
+
+```
+npm run startServer
+```
+
 **Now now go to localhost:3000 in your browser and you can now try freeresourcehub in your pc or mobile.**
