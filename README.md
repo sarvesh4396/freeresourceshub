@@ -44,6 +44,13 @@ This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/pandeyom331">
+            <img src="https://avatars.githubusercontent.com/u/54907469?v=4" width="100;" alt="pandeyom331"/>
+            <br />
+            <sub><b>Om Pandey</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/sarvesh4396">
             <img src="https://avatars.githubusercontent.com/u/68162479?v=4" width="100;" alt="sarvesh4396"/>
             <br />
