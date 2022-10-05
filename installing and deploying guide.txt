@@ -1,7 +1,0 @@
-Installing and deploying guide--
-Clone the repo
-Install npm.
-Head over to the cloned folder using CLI
-Run=> npm i
-Now run=> npm start
-Now now go to localhost:3000 in your browser and you can now try freeresourcehub in your pc.
