@@ -32,7 +32,7 @@ Source
 ## Installing and Deploying Guide
 
 - Guide is present in repository.
-[Link](https://github.com/pandeyom331/freeresourceshub/blob/master/installing%20and%20deploying%20guide.txt)
+[Link](https://github.com/pandeyom331/freeresourceshub/blob/master/Guides/Install.md)
 
 ## Support
 
