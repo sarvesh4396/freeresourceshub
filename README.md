@@ -29,6 +29,10 @@ Source
 - Thanks to all our contributors.
 - Our website is powered by [Netlify](https://www.netlify.com/) & [GitHub](https://github.com/).
 
+## Installing and Deploying Guide
+
+- Guide is present in repository.
+[Link](https://github.com/sarvesh4396/freeresourceshub/blob/master/Guides/Install.md)
 
 ## Support
 
