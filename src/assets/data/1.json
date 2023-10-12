@@ -9428,6 +9428,14 @@
             "tags": [
                 "Miscellaneous"
             ],
+            "name": "Carousel Hero",
+            "url": "https://carouselhero.com",
+            "description": "\Carousel Hero\n      - Create social media carousels for free and without having to signup\n      "
+        },
+        {
+            "tags": [
+                "Miscellaneous"
+            ],
             "name": "Smartcar API",
             "url": "https://smartcar.com",
             "description": "\nSmartcar API\n      - An API for cars to locate, get fuel tank, battery levels, odometer,\n      unlock/lock doors, etc.\n    "
